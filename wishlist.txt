@@ -1,0 +1,146 @@
+title:Global Wishlist
+description:General wishlist of items to make determining good rolls and god rolls quickly.
+
+// Auto Rifles
+// --------------------------------------------------------------------------------------------------------------------------------
+
+
+
+// Scout Rifles
+// --------------------------------------------------------------------------------------------------------------------------------
+
+// Nameless Midnight
+dimwishlist:item=3040742682&perks=2405638015,3142289711,3400784728
+dimwishlist:item=3040742682&perks=2405638015,3142289711
+
+
+// Pulse Rifles
+// --------------------------------------------------------------------------------------------------------------------------------
+
+
+
+// Hand Cannons
+// --------------------------------------------------------------------------------------------------------------------------------
+
+// Service Revolver, Better Devils (Maximum range and stability)
+dimwishlist:item=6&perks=1926090092,3142289711,2846385770 // true sight hcs, accurized rounds, rangefinder
+dimwishlist:item=6&perks=1926090092,3142289711 // true sight hcs, accurized rounds
+
+// Austringer
+dimwishlist:item=6&perks=1467527085,3142289711,2846385770 // extended barrel, accurized rounds, rangefinder
+dimwishlist:item=6&perks=1467527085,3142289711 // extended barrel, accurized rounds
+
+dimwishlist:item=6&perks=3142289711,2846385770 // accurized rounds, rangefinder
+dimwishlist:item=6&perks=3142289711 // accurized rounds
+
+// Submachine Guns
+// --------------------------------------------------------------------------------------------------------------------------------
+
+// The Recluse (static roll)
+dimwishlist:item=3354242550&perks=1458010786,1392496348,1885400500,2779035018,3081867624
+
+
+
+// Sidearms
+// --------------------------------------------------------------------------------------------------------------------------------
+
+
+
+// Bows
+// --------------------------------------------------------------------------------------------------------------------------------
+
+
+
+// Shotguns
+// --------------------------------------------------------------------------------------------------------------------------------
+
+// Dust Rock Blues (Maximum range)
+// rifled barrel, accurized rounds (range masterwork recommended)
+dimwishlist:item=636912560&perks=466087222,3142289711
+
+
+
+// Grenade Launchers (Special)
+// --------------------------------------------------------------------------------------------------------------------------------
+
+// The Mountaintop (static roll)
+dimwishlist:item=3993415705&perks=1458010786,981914802,3301904089,2846385770,3713839994
+
+
+
+// Fusion Rifles
+// --------------------------------------------------------------------------------------------------------------------------------
+
+// Loaded Question (static roll)
+dimwishlist:item=580961571&perks=1019291327,2405638015,1483536627,3300816228,1427256713
+
+// Erentil FR4
+// torch hs3, projection fuse, under pressure, high impact reserves (range masterwork recommended)
+dimwishlist:item=3027844941&perks=1628165636,2969185026,1645158859,2213355989
+
+
+
+// Sniper Rifles
+// --------------------------------------------------------------------------------------------------------------------------------
+
+// Sole Survivor
+dimwishlist:item=1115104187&perks=1294026524,1771339417 // firing line
+dimwishlist:item=1115104187&perks=1294026524,1885400500,1771339417 // firing line, ricochet rounds
+dimwishlist:item=1115104187&perks=1294026524,3400784728,1771339417 // firing line, triple tap
+dimwishlist:item=1115104187&perks=1294026524,1354429876,1771339417 // firing line, fourth times the charm
+dimwishlist:item=1115104187&perks=1294026524,2869569095,1771339417 // firing line, field prep
+dimwishlist:item=1115104187&perks=1294026524,247725512,1771339417 // firing line, rapid hit
+
+
+
+// Swords
+// --------------------------------------------------------------------------------------------------------------------------------
+
+dimwishlist:item=54&perks=436053704,2349202967,1749209109,3913600130 // hungry edge, heavy guard, relentless strike, whirlwind blade
+dimwishlist:item=54&perks=436053704,2349202967,1749209109 // hungry edge, heavy guard, relentless strike
+dimwishlist:item=54&perks=436053704,2349202967 // hungry edge, heavy guard
+dimwishlist:item=54&perks=436053704,1749209109 // hungry edge, relentless strike
+dimwishlist:item=54&perks=938542991,2349202967,1749209109,3913600130 // tempered edge, heavy guard, relentless strike, whirlwind blade
+dimwishlist:item=54&perks=938542991,2349202967,1749209109 // tempered edge, heavy guard, relentless strike
+dimwishlist:item=54&perks=938542991,2349202967 // tempered edge, heavy guard
+dimwishlist:item=54&perks=938542991,1749209109 // tempered edge, relentless strike
+
+// Grenade Launchers
+// --------------------------------------------------------------------------------------------------------------------------------
+
+// 150rpm, hard launch, spike grenades (velocity masterwork recommended)
+// Swarm of the Raven, Outrageous Fortune, etc.
+dimwishlist:item=153950757&perks=2353477480,3301904089 // spike grenades only
+dimwishlist:item=153950757&perks=2353477480,981914802,3301904089 // hard launch, spike grenades
+
+
+// Rocket Launchers
+// --------------------------------------------------------------------------------------------------------------------------------
+
+
+
+// Linear Fusion Rifles
+// --------------------------------------------------------------------------------------------------------------------------------
+
+
+
+// Machine Guns
+// --------------------------------------------------------------------------------------------------------------------------------
+
+// Hammerhead
+dimwishlist:item=603242241&perks=1294026524,3250034553,1561002382,2779035018,2213355989
+
+// Exotics
+// --------------------------------------------------------------------------------------------------------------------------------
+
+// Outbreak Perfected
+dimwishlist:item=400096939&perks=4208418110,1467527085,3142289711,1168162263,3242533954
+
+// Izanagi's Burden
+dimwishlist:item=3211806999&perks=1070100196,3661387068,3142289711,1168162263,3465198467
+
+// Jotünn
+dimwishlist:item=417164956&perks=1656957541,332773068,1687452232,3275789089,862848869
+
+// Whisper of the Worm
+dimwishlist:item=1891561814&perks=281315705,1392496348,3142289711,3337692349,4259401308
