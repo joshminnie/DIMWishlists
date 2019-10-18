@@ -75,8 +75,22 @@ dimwishlist:item=3993415705&perks=1458010786,981914802,3301904089,2846385770,371
 dimwishlist:item=580961571&perks=1019291327,2405638015,1483536627,3300816228,1427256713
 
 // Erentil FR4
-// torch hs3, projection fuse, under pressure, high impact reserves (range masterwork recommended)
-dimwishlist:item=3027844941&perks=1628165636,2969185026,1645158859,2213355989
+dimwishlist:item=3027844941&perks=1628165636,2969185026,1645158859,2213355989 // torch hs3, projection fuse, under pressure, high impact reserves
+dimwishlist:item=3027844941&perks=1628165636,2969185026,1645158859,1600092898 // torch hs3, projection fuse, under pressure, backup plan
+dimwishlist:item=3027844941&perks=1628165636,2969185026,1645158859,1890422124 // torch hs3, projection fuse, under pressure, tap the trigger
+dimwishlist:item=3027844941&perks=1628165636,2969185026,1645158859,2846385770 // torch hs3, projection fuse, under pressure, rangefinder
+dimwishlist:item=3027844941&perks=1628165636,2969185026,280464955,2213355989  // torch hs3, projection fuse, firmly planted, high impact reserves
+dimwishlist:item=3027844941&perks=1628165636,2969185026,280464955,1600092898  // torch hs3, projection fuse, firmly planted, backup plan
+dimwishlist:item=3027844941&perks=1628165636,2969185026,280464955,1890422124  // torch hs3, projection fuse, firmly planted, high impact reserves
+dimwishlist:item=3027844941&perks=1628165636,2969185026,280464955,2846385770  // torch hs3, projection fuse, firmly planted, high impact reserves
+dimwishlist:item=3027844941&perks=194952922,2969185026,1645158859,2213355989 // impulse ms3, projection fuse, under pressure, high impact reserves
+dimwishlist:item=3027844941&perks=194952922,2969185026,1645158859,1600092898 // impulse ms3, projection fuse, under pressure, backup plan
+dimwishlist:item=3027844941&perks=194952922,2969185026,1645158859,1890422124 // impulse ms3, projection fuse, under pressure, tap the trigger
+dimwishlist:item=3027844941&perks=194952922,2969185026,1645158859,2846385770 // impulse ms3, projection fuse, under pressure, rangefinder
+dimwishlist:item=3027844941&perks=194952922,2969185026,280464955,2213355989  // impulse ms3, projection fuse, firmly planted, high impact reserves
+dimwishlist:item=3027844941&perks=194952922,2969185026,280464955,1600092898  // impulse ms3, projection fuse, firmly planted, backup plan
+dimwishlist:item=3027844941&perks=194952922,2969185026,280464955,1890422124  // impulse ms3, projection fuse, firmly planted, high impact reserves
+dimwishlist:item=3027844941&perks=194952922,2969185026,280464955,2846385770  // impulse ms3, projection fuse, firmly planted, high impact reserves
 
 
 
@@ -96,14 +110,20 @@ dimwishlist:item=1115104187&perks=1294026524,247725512,1771339417 // firing line
 // Swords
 // --------------------------------------------------------------------------------------------------------------------------------
 
-dimwishlist:item=54&perks=436053704,2349202967,1749209109,3913600130 // hungry edge, heavy guard, relentless strike, whirlwind blade
-dimwishlist:item=54&perks=436053704,2349202967,1749209109 // hungry edge, heavy guard, relentless strike
-dimwishlist:item=54&perks=436053704,2349202967 // hungry edge, heavy guard
-dimwishlist:item=54&perks=436053704,1749209109 // hungry edge, relentless strike
-dimwishlist:item=54&perks=938542991,2349202967,1749209109,3913600130 // tempered edge, heavy guard, relentless strike, whirlwind blade
-dimwishlist:item=54&perks=938542991,2349202967,1749209109 // tempered edge, heavy guard, relentless strike
-dimwishlist:item=54&perks=938542991,2349202967 // tempered edge, heavy guard
-dimwishlist:item=54&perks=938542991,1749209109 // tempered edge, relentless strike
+dimwishlist:item=54&perks=436053704,2349202967,1749209109,3913600130  // hungry edge, heavy guard, relentless strike, whirlwind blade
+dimwishlist:item=54&perks=436053704,2349202967,1749209109             // hungry edge, heavy guard, relentless strike
+dimwishlist:item=54&perks=436053704,2349202967,3913600130             // hungry edge, heavy guard, whirlwind blade
+dimwishlist:item=54&perks=436053704,1749209109                        // hungry edge, relentless strike
+dimwishlist:item=54&perks=436053704,3913600130                        // hungry edge, whirlwind blade
+dimwishlist:item=54&perks=436053704,2349202967                        // hungry edge, heavy guard
+dimwishlist:item=54&perks=436053704                                   // hungry edge
+dimwishlist:item=54&perks=938542991,2349202967,1749209109,3913600130  // tempered edge, heavy guard, relentless strike, whirlwind blade
+dimwishlist:item=54&perks=938542991,2349202967,1749209109             // tempered edge, heavy guard, relentless strike
+dimwishlist:item=54&perks=938542991,2349202967,3913600130             // tempered edge, heavy guard, whirlwind blade
+dimwishlist:item=54&perks=938542991,1749209109                        // tempered edge, relentless strike
+dimwishlist:item=54&perks=938542991,3913600130                        // tempered edge, whirlwind blade
+dimwishlist:item=54&perks=938542991,2349202967                        // tempered edge, heavy guard
+dimwishlist:item=54&perks=938542991                                   // tempered edge
 
 // Grenade Launchers
 // --------------------------------------------------------------------------------------------------------------------------------
