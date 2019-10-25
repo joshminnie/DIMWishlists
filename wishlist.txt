@@ -1,6 +1,3 @@
-title:Global Wishlist
-description:General wishlist of items to make determining good rolls and god rolls quickly.
-
 // Auto Rifles
 // -----------------------------------------------------------------------------
 

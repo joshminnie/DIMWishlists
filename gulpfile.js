@@ -23,7 +23,7 @@ function build(done) {
   var folders = getFolders(wishlists);
   if (folders.length === 0) { return done(); }
 
-  var tasks = folders.map(function(folder) {
+  folders.map(function(folder) {
     return src(path.join(wishlists, folder, '/**/*.txt'))
       .pipe(concat(folder + '.txt'))
       .pipe(dest(wishlists));
@@ -33,11 +33,11 @@ function build(done) {
 }
 
 function compile(done) {
-  src(['includes/compiled-header.txt', path.join(wishlists, '*.txt')])
+  src(path.join(wishlists, '*.txt'))
     .pipe(concat('wishlist.txt'))
     .pipe(dest('./'));
   done();
 }
 
-exports.compile = compile;
+exports.compile = compile; // TODO: Make this part of the default task, the series doesn't wait for it to complete currently.
 exports.default = series(clean, build);
