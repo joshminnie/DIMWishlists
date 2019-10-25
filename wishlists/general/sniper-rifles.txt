@@ -1,0 +1,21 @@
+// Sniper Rifles
+// -----------------------------------------------------------------------------
+
+// Exotic
+
+// Izanagi's Burden
+dimwishlist:item=3211806999&perks=1070100196,3661387068,3142289711,1168162263,3465198467
+
+// Whisper of the Worm
+dimwishlist:item=1891561814&perks=281315705,1392496348,3142289711,3337692349,4259401308
+
+
+// Legendary
+
+// Sole Survivor
+dimwishlist:item=1115104187&perks=1294026524,1771339417 // firing line
+dimwishlist:item=1115104187&perks=1294026524,1885400500,1771339417 // firing line, ricochet rounds
+dimwishlist:item=1115104187&perks=1294026524,3400784728,1771339417 // firing line, triple tap
+dimwishlist:item=1115104187&perks=1294026524,1354429876,1771339417 // firing line, fourth times the charm
+dimwishlist:item=1115104187&perks=1294026524,2869569095,1771339417 // firing line, field prep
+dimwishlist:item=1115104187&perks=1294026524,247725512,1771339417 // firing line, rapid hit

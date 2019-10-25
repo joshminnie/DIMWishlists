@@ -1,0 +1,6 @@
+// Shotguns
+// -----------------------------------------------------------------------------
+
+// Dust Rock Blues (Maximum range)
+// rifled barrel, accurized rounds (range masterwork recommended)
+dimwishlist:item=636912560&perks=466087222,3142289711

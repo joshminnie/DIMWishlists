@@ -1,12 +1,12 @@
-// Garden of Salvation Wishlist
+// Garden of Salvation
 // -----------------------------------------------------------------------------
 
 // Encounter 1: Evade the Consecrated Mind
+// -----------------------------------------------------------------------------
 // This encounter is very flexible in your choice of weapons. There is a lot of
 // void shields so best to take something in that can rip through those shields
 // as quickly as possible. Also, for the current season, anything with
 // Anti-Barrier rounds will help with the hobgoblins.
-// -----------------------------------------------------------------------------
 
 
 

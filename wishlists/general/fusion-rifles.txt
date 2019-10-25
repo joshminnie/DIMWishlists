@@ -1,0 +1,31 @@
+// Fusion Rifles
+// -----------------------------------------------------------------------------
+
+// Exotic
+
+// Jotünn
+dimwishlist:item=417164956&perks=1656957541,332773068,1687452232,3275789089,862848869
+
+
+// Legendary
+
+// Loaded Question (static roll)
+dimwishlist:item=580961571&perks=1019291327,2405638015,1483536627,3300816228,1427256713
+
+// Erentil FR4
+dimwishlist:item=3027844941&perks=1628165636,2969185026,1645158859,2213355989 // torch hs3, projection fuse, under pressure, high impact reserves
+dimwishlist:item=3027844941&perks=1628165636,2969185026,1645158859,1600092898 // torch hs3, projection fuse, under pressure, backup plan
+dimwishlist:item=3027844941&perks=1628165636,2969185026,1645158859,1890422124 // torch hs3, projection fuse, under pressure, tap the trigger
+dimwishlist:item=3027844941&perks=1628165636,2969185026,1645158859,2846385770 // torch hs3, projection fuse, under pressure, rangefinder
+dimwishlist:item=3027844941&perks=1628165636,2969185026,280464955,2213355989  // torch hs3, projection fuse, firmly planted, high impact reserves
+dimwishlist:item=3027844941&perks=1628165636,2969185026,280464955,1600092898  // torch hs3, projection fuse, firmly planted, backup plan
+dimwishlist:item=3027844941&perks=1628165636,2969185026,280464955,1890422124  // torch hs3, projection fuse, firmly planted, high impact reserves
+dimwishlist:item=3027844941&perks=1628165636,2969185026,280464955,2846385770  // torch hs3, projection fuse, firmly planted, high impact reserves
+dimwishlist:item=3027844941&perks=194952922,2969185026,1645158859,2213355989 // impulse ms3, projection fuse, under pressure, high impact reserves
+dimwishlist:item=3027844941&perks=194952922,2969185026,1645158859,1600092898 // impulse ms3, projection fuse, under pressure, backup plan
+dimwishlist:item=3027844941&perks=194952922,2969185026,1645158859,1890422124 // impulse ms3, projection fuse, under pressure, tap the trigger
+dimwishlist:item=3027844941&perks=194952922,2969185026,1645158859,2846385770 // impulse ms3, projection fuse, under pressure, rangefinder
+dimwishlist:item=3027844941&perks=194952922,2969185026,280464955,2213355989  // impulse ms3, projection fuse, firmly planted, high impact reserves
+dimwishlist:item=3027844941&perks=194952922,2969185026,280464955,1600092898  // impulse ms3, projection fuse, firmly planted, backup plan
+dimwishlist:item=3027844941&perks=194952922,2969185026,280464955,1890422124  // impulse ms3, projection fuse, firmly planted, high impact reserves
+dimwishlist:item=3027844941&perks=194952922,2969185026,280464955,2846385770  // impulse ms3, projection fuse, firmly planted, high impact reserves

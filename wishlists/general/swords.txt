@@ -1,0 +1,17 @@
+// Swords
+// -----------------------------------------------------------------------------
+
+dimwishlist:item=54&perks=436053704,2349202967,1749209109,3913600130  // hungry edge, heavy guard, relentless strike, whirlwind blade
+dimwishlist:item=54&perks=436053704,2349202967,1749209109             // hungry edge, heavy guard, relentless strike
+dimwishlist:item=54&perks=436053704,2349202967,3913600130             // hungry edge, heavy guard, whirlwind blade
+dimwishlist:item=54&perks=436053704,1749209109                        // hungry edge, relentless strike
+dimwishlist:item=54&perks=436053704,3913600130                        // hungry edge, whirlwind blade
+dimwishlist:item=54&perks=436053704,2349202967                        // hungry edge, heavy guard
+dimwishlist:item=54&perks=436053704                                   // hungry edge
+dimwishlist:item=54&perks=938542991,2349202967,1749209109,3913600130  // tempered edge, heavy guard, relentless strike, whirlwind blade
+dimwishlist:item=54&perks=938542991,2349202967,1749209109             // tempered edge, heavy guard, relentless strike
+dimwishlist:item=54&perks=938542991,2349202967,3913600130             // tempered edge, heavy guard, whirlwind blade
+dimwishlist:item=54&perks=938542991,1749209109                        // tempered edge, relentless strike
+dimwishlist:item=54&perks=938542991,3913600130                        // tempered edge, whirlwind blade
+dimwishlist:item=54&perks=938542991,2349202967                        // tempered edge, heavy guard
+dimwishlist:item=54&perks=938542991                                   // tempered edge
