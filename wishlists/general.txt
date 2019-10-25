@@ -1,6 +1,3 @@
-title:Global Wishlist
-description:General wishlist of items to make determining good rolls and god rolls quickly.
-
 // Auto Rifles
 // -----------------------------------------------------------------------------
 
@@ -173,55 +170,3 @@ dimwishlist:item=54&perks=938542991,1749209109                        // tempere
 dimwishlist:item=54&perks=938542991,3913600130                        // tempered edge, whirlwind blade
 dimwishlist:item=54&perks=938542991,2349202967                        // tempered edge, heavy guard
 dimwishlist:item=54&perks=938542991                                   // tempered edge
-
-// Crown of Sorrows
-// -----------------------------------------------------------------------------
-
-// The Mountaintop (static roll)
-dimwishlist:item=3993415705&perks=1458010786,981914802,3301904089,2846385770,3713839994
-
-// Eater of Worlds
-// -----------------------------------------------------------------------------
-
-// Garden of Salvation
-// -----------------------------------------------------------------------------
-
-// Encounter 1: Evade the Consecrated Mind
-// -----------------------------------------------------------------------------
-// This encounter is very flexible in your choice of weapons. There is a lot of
-// void shields so best to take something in that can rip through those shields
-// as quickly as possible. Also, for the current season, anything with
-// Anti-Barrier rounds will help with the hobgoblins.
-
-
-
-// Encounter 2: Summon the Consecrated Mind
-// -----------------------------------------------------------------------------
-
-
-
-// Encounter 3: Defeat the Consecrated Mind
-// -----------------------------------------------------------------------------
-
-// Izanagi's Burden (with completed catalyst)
-dimwishlist:item=3211806999&perks=1070100196,3661387068,3142289711,1168162263,3465198467
-
-
-
-// Encounter 4: Defeat the Sanctified Mind
-// -----------------------------------------------------------------------------
-
-// Izanagi's Burden (with completed catalyst)
-dimwishlist:item=3211806999&perks=1070100196,3661387068,3142289711,1168162263,3465198467
-
-// Last Wish
-// -----------------------------------------------------------------------------
-
-// Leviathan
-// -----------------------------------------------------------------------------
-
-// Scourge of the Past
-// -----------------------------------------------------------------------------
-
-// Spire of Stars
-// -----------------------------------------------------------------------------

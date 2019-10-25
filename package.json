@@ -1,0 +1,36 @@
+{
+  "name": "dimwishlists",
+  "version": "1.0.0",
+  "description": "Wishlist of weapons and armor to make determining good rolls and god rolls easy and quick.",
+  "main": "gulpfile.js",
+  "dependencies": {},
+  "devDependencies": {
+    "del": "^5.1.0",
+    "gulp": "^4.0.2",
+    "gulp-concat": "^2.6.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joshminnie/DIMWishlists.git"
+  },
+  "keywords": [
+    "dim",
+    "wishlist",
+    "destiny",
+    "destiny2",
+    "bungie",
+    "inventory",
+    "weapons",
+    "armor",
+    "godrolls"
+  ],
+  "author": "Joshua Minnie",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joshminnie/DIMWishlists/issues"
+  },
+  "homepage": "https://github.com/joshminnie/DIMWishlists#readme"
+}
