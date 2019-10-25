@@ -1,0 +1,30 @@
+// Garden of Salvation Wishlist
+// -----------------------------------------------------------------------------
+
+// Encounter 1: Evade the Consecrated Mind
+// This encounter is very flexible in your choice of weapons. There is a lot of
+// void shields so best to take something in that can rip through those shields
+// as quickly as possible. Also, for the current season, anything with
+// Anti-Barrier rounds will help with the hobgoblins.
+// -----------------------------------------------------------------------------
+
+
+
+// Encounter 2: Summon the Consecrated Mind
+// -----------------------------------------------------------------------------
+
+
+
+// Encounter 3: Defeat the Consecrated Mind
+// -----------------------------------------------------------------------------
+
+// Izanagi's Burden (with completed catalyst)
+dimwishlist:item=3211806999&perks=1070100196,3661387068,3142289711,1168162263,3465198467
+
+
+
+// Encounter 4: Defeat the Sanctified Mind
+// -----------------------------------------------------------------------------
+
+// Izanagi's Burden (with completed catalyst)
+dimwishlist:item=3211806999&perks=1070100196,3661387068,3142289711,1168162263,3465198467
