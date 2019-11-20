@@ -25,16 +25,35 @@ dimwishlist:item=3027844941&perks=1628165636,2969185026,1645158859,1890422124 //
 dimwishlist:item=3027844941&perks=1628165636,2969185026,1645158859,2846385770 // torch hs3, projection fuse, under pressure, rangefinder
 dimwishlist:item=3027844941&perks=1628165636,2969185026,280464955,2213355989  // torch hs3, projection fuse, firmly planted, high impact reserves
 dimwishlist:item=3027844941&perks=1628165636,2969185026,280464955,1600092898  // torch hs3, projection fuse, firmly planted, backup plan
-dimwishlist:item=3027844941&perks=1628165636,2969185026,280464955,1890422124  // torch hs3, projection fuse, firmly planted, high impact reserves
-dimwishlist:item=3027844941&perks=1628165636,2969185026,280464955,2846385770  // torch hs3, projection fuse, firmly planted, high impact reserves
+dimwishlist:item=3027844941&perks=1628165636,2969185026,280464955,1890422124  // torch hs3, projection fuse, firmly planted, tap the trigger
+dimwishlist:item=3027844941&perks=1628165636,2969185026,280464955,2846385770  // torch hs3, projection fuse, firmly planted, rangefinder
 dimwishlist:item=3027844941&perks=194952922,2969185026,1645158859,2213355989 // impulse ms3, projection fuse, under pressure, high impact reserves
 dimwishlist:item=3027844941&perks=194952922,2969185026,1645158859,1600092898 // impulse ms3, projection fuse, under pressure, backup plan
 dimwishlist:item=3027844941&perks=194952922,2969185026,1645158859,1890422124 // impulse ms3, projection fuse, under pressure, tap the trigger
 dimwishlist:item=3027844941&perks=194952922,2969185026,1645158859,2846385770 // impulse ms3, projection fuse, under pressure, rangefinder
 dimwishlist:item=3027844941&perks=194952922,2969185026,280464955,2213355989  // impulse ms3, projection fuse, firmly planted, high impact reserves
 dimwishlist:item=3027844941&perks=194952922,2969185026,280464955,1600092898  // impulse ms3, projection fuse, firmly planted, backup plan
-dimwishlist:item=3027844941&perks=194952922,2969185026,280464955,1890422124  // impulse ms3, projection fuse, firmly planted, high impact reserves
-dimwishlist:item=3027844941&perks=194952922,2969185026,280464955,2846385770  // impulse ms3, projection fuse, firmly planted, high impact reserves
+dimwishlist:item=3027844941&perks=194952922,2969185026,280464955,1890422124  // impulse ms3, projection fuse, firmly planted, tap the trigger
+dimwishlist:item=3027844941&perks=194952922,2969185026,280464955,2846385770  // impulse ms3, projection fuse, firmly planted, rangefinder
+
+// Main Ingredient
+dimwishlist:item=253196586&perks=2405638014,2969185026,1645158859,2213355989 // red dot micro, projection fuse, under pressure, high impact reserves
+dimwishlist:item=253196586&perks=2405638014,2969185026,1645158859,1600092898 // red dot micro, projection fuse, under pressure, backup plan
+dimwishlist:item=253196586&perks=2405638014,2969185026,1645158859,1890422124 // red dot micro, projection fuse, under pressure, tap the trigger
+dimwishlist:item=253196586&perks=2405638014,2969185026,1645158859,2846385770 // red dot micro, projection fuse, under pressure, rangefinder
+dimwishlist:item=253196586&perks=2405638014,2969185026,280464955,2213355989 // red dot micro, projection fuse, firmly planted, high impact reserves
+dimwishlist:item=253196586&perks=2405638014,2969185026,280464955,2213355989 // red dot micro, projection fuse, firmly planted, backup plan
+dimwishlist:item=253196586&perks=2405638014,2969185026,280464955,2213355989 // red dot micro, projection fuse, firmly planted, tap the trigger
+dimwishlist:item=253196586&perks=2405638014,2969185026,280464955,2213355989 // red dot micro, projection fuse, firmly planted, rangefinder
+
+dimwishlist:item=253196586&perks=13792279,2969185026,1645158859,2213355989 // cleanshot IS, projection fuse, under pressure, high impact reserves
+dimwishlist:item=253196586&perks=13792279,2969185026,1645158859,1600092898 // cleanshot IS, projection fuse, under pressure, backup plan
+dimwishlist:item=253196586&perks=13792279,2969185026,1645158859,1890422124 // cleanshot IS, projection fuse, under pressure, tap the trigger
+dimwishlist:item=253196586&perks=13792279,2969185026,1645158859,2846385770 // cleanshot IS, projection fuse, under pressure, rangefinder
+dimwishlist:item=253196586&perks=13792279,2969185026,280464955,2213355989 // cleanshot IS, projection fuse, firmly planted, high impact reserves
+dimwishlist:item=253196586&perks=13792279,2969185026,280464955,2213355989 // cleanshot IS, projection fuse, firmly planted, backup plan
+dimwishlist:item=253196586&perks=13792279,2969185026,280464955,2213355989 // cleanshot IS, projection fuse, firmly planted, tap the trigger
+dimwishlist:item=253196586&perks=13792279,2969185026,280464955,2213355989 // cleanshot IS, projection fuse, firmly planted, rangefinder
 
 // Grenade Launchers (Special)
 // -----------------------------------------------------------------------------
