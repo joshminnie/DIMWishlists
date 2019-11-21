@@ -93,6 +93,9 @@ dimwishlist:item=834081972&perks=1926090092,3142289711 // true sight hcs, accuri
 dimwishlist:item=2429822977&perks=1467527085,3142289711,2846385770 // extended barrel, accurized rounds, rangefinder
 dimwishlist:item=2429822977&perks=1467527085,3142289711 // extended barrel, accurized rounds
 
+// TRASH LIST
+dimwishlist:item=-2112909415 // Ten Paces
+
 // Linear Fusion Rifles
 // -----------------------------------------------------------------------------
 
@@ -229,15 +232,16 @@ dimwishlist:item=3993415705&perks=1458010786,981914802,3301904089,2846385770,371
 
 // Encounter 1: Evade the Consecrated Mind
 // -----------------------------------------------------------------------------
-// This encounter is very flexible in your choice of weapons. There is a lot of
-// void shields so best to take something in that can rip through those shields
-// as quickly as possible. Also, for the current season, anything with
-// Anti-Barrier rounds will help with the hobgoblins.
+// This encounter is very flexible in your choice of weapons. There are a lot of
+// void shields, so best to take something that can rip through those shields as
+// quickly as possible. Also, for the current season, anything with Anti-Barrier
+// rounds will help with the hobgoblins.
 
 
 
 // Encounter 2: Summon the Consecrated Mind
 // -----------------------------------------------------------------------------
+// The key here is quickly killing your ads, so something for quick.
 
 
 
