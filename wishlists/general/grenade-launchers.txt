@@ -11,5 +11,5 @@ dimwishlist:item=3993415705&perks=1458010786,981914802,3301904089,2846385770,371
 
 // 150rpm, hard launch, spike grenades (velocity masterwork recommended)
 // Swarm of the Raven, Outrageous Fortune, etc.
-dimwishlist:item=153950757&perks=2353477480,3301904089 // spike grenades only
+dimwishlist:item=153950757&perks=2353477480,3301904089 // spike grenades
 dimwishlist:item=153950757&perks=2353477480,981914802,3301904089 // hard launch, spike grenades

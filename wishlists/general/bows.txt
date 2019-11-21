@@ -1,2 +1,5 @@
 // Bows
 // -----------------------------------------------------------------------------
+
+// Accrued Redemption
+dimwishlist:item=4095896073&perks=201365942,247725512 // rapid hit, archer's tempo

@@ -2,4 +2,5 @@
 // -----------------------------------------------------------------------------
 
 // Hammerhead
-dimwishlist:item=603242241&perks=1294026524,3250034553,1561002382,2779035018,2213355989
+dimwishlist:item=603242241&perks=3250034553,1561002382,2779035018 // hammer-forged rifling, high caliber rounds, feeding frenzy
+dimwishlist:item=603242241&perks=3250034553,1561002382,2779035018,2213355989 // hammer-forged rifling, high caliber rounds, feeding frenzy, high-impact reserves

@@ -4,16 +4,11 @@
 // Bows
 // -----------------------------------------------------------------------------
 
+// Accrued Redemption
+dimwishlist:item=4095896073&perks=201365942,247725512 // rapid hit, archer's tempo
+
 // Fusion Rifles
 // -----------------------------------------------------------------------------
-
-// Exotic
-
-// Jotünn
-dimwishlist:item=417164956&perks=1656957541,332773068,1687452232,3275789089,862848869
-
-
-// Legendary
 
 // Loaded Question (static roll)
 dimwishlist:item=580961571&perks=1019291327,2405638015,1483536627,3300816228,1427256713
@@ -54,6 +49,12 @@ dimwishlist:item=253196586&perks=13792279,2969185026,280464955,2213355989 // cle
 dimwishlist:item=253196586&perks=13792279,2969185026,280464955,2213355989 // cleanshot IS, projection fuse, firmly planted, tap the trigger
 dimwishlist:item=253196586&perks=13792279,2969185026,280464955,2213355989 // cleanshot IS, projection fuse, firmly planted, rangefinder
 
+
+// Exotic
+
+// Jotünn
+dimwishlist:item=417164956&perks=1656957541,332773068,1687452232,3275789089,862848869
+
 // Grenade Launchers (Special)
 // -----------------------------------------------------------------------------
 
@@ -67,7 +68,7 @@ dimwishlist:item=3993415705&perks=1458010786,981914802,3301904089,2846385770,371
 
 // 150rpm, hard launch, spike grenades (velocity masterwork recommended)
 // Swarm of the Raven, Outrageous Fortune, etc.
-dimwishlist:item=153950757&perks=2353477480,3301904089 // spike grenades only
+dimwishlist:item=153950757&perks=2353477480,3301904089 // spike grenades
 dimwishlist:item=153950757&perks=2353477480,981914802,3301904089 // hard launch, spike grenades
 
 // Hand Cannons
@@ -76,13 +77,21 @@ dimwishlist:item=153950757&perks=2353477480,981914802,3301904089 // hard launch,
 dimwishlist:item=6&perks=3142289711,2846385770 // accurized rounds, rangefinder
 dimwishlist:item=6&perks=3142289711 // accurized rounds
 
-// Service Revolver, Better Devils (Maximum range and stability)
-dimwishlist:item=6&perks=1926090092,3142289711,2846385770 // true sight hcs, accurized rounds, rangefinder
-dimwishlist:item=6&perks=1926090092,3142289711 // true sight hcs, accurized rounds
+// Better Devils (Maximum range and stability)
+dimwishlist:item=153979397&perks=1926090091,3142289711,2846385770 // sureshot hcs, accurized rounds, rangefinder
+dimwishlist:item=153979397&perks=1926090091,3142289711 // sureshot hcs, accurized rounds
+dimwishlist:item=153979397&perks=1926090092,3142289711,2846385770 // true sight hcs, accurized rounds, rangefinder
+dimwishlist:item=153979397&perks=1926090092,3142289711 // true sight hcs, accurized rounds
+
+// Service Revolver (Maximum range and stability)
+dimwishlist:item=834081972&perks=1926090091,3142289711,2846385770 // sureshot hcs, accurized rounds, rangefinder
+dimwishlist:item=834081972&perks=1926090091,3142289711 // sureshot hcs, accurized rounds
+dimwishlist:item=834081972&perks=1926090092,3142289711,2846385770 // true sight hcs, accurized rounds, rangefinder
+dimwishlist:item=834081972&perks=1926090092,3142289711 // true sight hcs, accurized rounds
 
 // Austringer
-dimwishlist:item=6&perks=1467527085,3142289711,2846385770 // extended barrel, accurized rounds, rangefinder
-dimwishlist:item=6&perks=1467527085,3142289711 // extended barrel, accurized rounds
+dimwishlist:item=2429822977&perks=1467527085,3142289711,2846385770 // extended barrel, accurized rounds, rangefinder
+dimwishlist:item=2429822977&perks=1467527085,3142289711 // extended barrel, accurized rounds
 
 // Linear Fusion Rifles
 // -----------------------------------------------------------------------------
@@ -91,10 +100,23 @@ dimwishlist:item=6&perks=1467527085,3142289711 // extended barrel, accurized rou
 // -----------------------------------------------------------------------------
 
 // Hammerhead
-dimwishlist:item=603242241&perks=1294026524,3250034553,1561002382,2779035018,2213355989
+dimwishlist:item=603242241&perks=3250034553,1561002382,2779035018 // hammer-forged rifling, high caliber rounds, feeding frenzy
+dimwishlist:item=603242241&perks=3250034553,1561002382,2779035018,2213355989 // hammer-forged rifling, high caliber rounds, feeding frenzy, high-impact reserves
 
 // Pulse Rifles
 // -----------------------------------------------------------------------------
+
+// Legendary
+
+dimwishlist:item=7&perks=1168162263,1015611457 // outlaw, kill clip
+dimwishlist:item=7&perks=3142289711,1168162263,1015611457 // accurized rounds, outlaw, kill clip
+dimwishlist:item=7&perks=1561002382,1168162263,1015611457 // high caliber rounds, outlaw, kill clip
+dimwishlist:item=7&perks=1885400500,1168162263,1015611457 // ricochet rounds, outlaw, kill clip
+
+// Sacred Provenance
+dimwislist:item=2408405461&perks=247725512,1015611457 // rapid hit, kill clip
+dimwislist:item=2408405461&perks=1168162263,1015611457 // outlaw, kill clip
+
 
 // Exotics
 
@@ -107,20 +129,15 @@ dimwishlist:item=400096939&perks=4208418110,1467527085,3142289711,1168162263,324
 // Scout Rifles
 // -----------------------------------------------------------------------------
 
-// Exotics
-
-dimwishlist:item=3413074534&perks=1000724343,1482024992,106909392,2387244414,4259401308 // Polaris Lance
-dimwishlist:item=3844694310&perks=3668782036,1392496348,1968497646,2387244414 // The Jade Rabbit
-dimwishlist:item=1331482397&perks=377257911,4090651448,1561002382,3100590152,990298390 // MIDA Multi-Tool
-
 // Legendary
 
 // Imperative
 dimwishlist:item=2314999489&perks=1019291327,2866798147 // no distractions
 
 // Nameless Midnight
-dimwishlist:item=3040742682&perks=2405638015,3142289711,3400784728
-dimwishlist:item=3040742682&perks=2405638015,3142289711
+dimwishlist:item=3040742682&perks=2405638015,3142289711 // red dot 2 moa, accurized rounds
+dimwishlist:item=3040742682&perks=2405638015,3142289711,2846385770 // red dot 2 moa, accurized rounds, rangefinder
+dimwishlist:item=3040742682&perks=2405638015,3142289711,3400784728 // red dot 2 moa, accurized rounds, triple tap
 
 // Night Watch
 dimwishlist:item=3504336176&perks=1458010786,3038247973 // explosive payload
@@ -132,6 +149,17 @@ dimwishlist:item=1931556011&perks=1636108362,247725512 // rapid hit
 
 // Randy's Throwing Knife
 dimwishlist:item=3535742959&perks=3920852688,247725512,1015611457 // rapid hit, kill clip
+
+// Exotics
+
+// Polaris Lance
+dimwishlist:item=3413074534&perks=1000724343,1482024992,106909392,2387244414,4259401308
+
+// The Jade Rabbit
+dimwishlist:item=3844694310&perks=3668782036,1392496348,1968497646,2387244414
+
+// MIDA Multi-Tool
+dimwishlist:item=1331482397&perks=377257911,4090651448,1561002382,3100590152,990298390
 
 // Shotguns
 // -----------------------------------------------------------------------------
@@ -146,17 +174,6 @@ dimwishlist:item=636912560&perks=466087222,3142289711
 // Sniper Rifles
 // -----------------------------------------------------------------------------
 
-// Exotic
-
-// Izanagi's Burden
-dimwishlist:item=3211806999&perks=1070100196,3661387068,3142289711,1168162263,3465198467
-
-// Whisper of the Worm
-dimwishlist:item=1891561814&perks=281315705,1392496348,3142289711,3337692349,4259401308
-
-
-// Legendary
-
 // Sole Survivor
 dimwishlist:item=1115104187&perks=1294026524,1771339417 // firing line
 dimwishlist:item=1115104187&perks=1294026524,1885400500,1771339417 // firing line, ricochet rounds
@@ -164,6 +181,15 @@ dimwishlist:item=1115104187&perks=1294026524,3400784728,1771339417 // firing lin
 dimwishlist:item=1115104187&perks=1294026524,1354429876,1771339417 // firing line, fourth times the charm
 dimwishlist:item=1115104187&perks=1294026524,2869569095,1771339417 // firing line, field prep
 dimwishlist:item=1115104187&perks=1294026524,247725512,1771339417 // firing line, rapid hit
+
+
+// Exotic
+
+// Izanagi's Burden
+dimwishlist:item=3211806999&perks=1070100196,3661387068,3142289711,1168162263,3465198467
+
+// Whisper of the Worm
+dimwishlist:item=1891561814&perks=281315705,1392496348,3142289711,3337692349,4259401308
 
 // Submachine Guns
 // -----------------------------------------------------------------------------
@@ -174,17 +200,17 @@ dimwishlist:item=3354242550&perks=1458010786,1392496348,1885400500,2779035018,30
 // Swords
 // -----------------------------------------------------------------------------
 
-dimwishlist:item=54&perks=436053704,2349202967,1749209109,3913600130  // hungry edge, heavy guard, relentless strike, whirlwind blade
-dimwishlist:item=54&perks=436053704,2349202967,1749209109             // hungry edge, heavy guard, relentless strike
-dimwishlist:item=54&perks=436053704,2349202967,3913600130             // hungry edge, heavy guard, whirlwind blade
-dimwishlist:item=54&perks=436053704,1749209109                        // hungry edge, relentless strike
-dimwishlist:item=54&perks=436053704,3913600130                        // hungry edge, whirlwind blade
-dimwishlist:item=54&perks=436053704,2349202967                        // hungry edge, heavy guard
-dimwishlist:item=54&perks=436053704                                   // hungry edge
-dimwishlist:item=54&perks=938542991,2349202967,1749209109,3913600130  // tempered edge, heavy guard, relentless strike, whirlwind blade
-dimwishlist:item=54&perks=938542991,2349202967,1749209109             // tempered edge, heavy guard, relentless strike
-dimwishlist:item=54&perks=938542991,2349202967,3913600130             // tempered edge, heavy guard, whirlwind blade
-dimwishlist:item=54&perks=938542991,1749209109                        // tempered edge, relentless strike
-dimwishlist:item=54&perks=938542991,3913600130                        // tempered edge, whirlwind blade
-dimwishlist:item=54&perks=938542991,2349202967                        // tempered edge, heavy guard
-dimwishlist:item=54&perks=938542991                                   // tempered edge
+dimwishlist:item=54&perks=436053704,2349202967,1749209109,3913600130 // hungry edge, heavy guard, relentless strike, whirlwind blade
+dimwishlist:item=54&perks=436053704,2349202967,1749209109 // hungry edge, heavy guard, relentless strike
+dimwishlist:item=54&perks=436053704,2349202967,3913600130 // hungry edge, heavy guard, whirlwind blade
+dimwishlist:item=54&perks=436053704,1749209109 // hungry edge, relentless strike
+dimwishlist:item=54&perks=436053704,3913600130 // hungry edge, whirlwind blade
+dimwishlist:item=54&perks=436053704,2349202967 // hungry edge, heavy guard
+dimwishlist:item=54&perks=436053704 // hungry edge
+dimwishlist:item=54&perks=938542991,2349202967,1749209109,3913600130 // tempered edge, heavy guard, relentless strike, whirlwind blade
+dimwishlist:item=54&perks=938542991,2349202967,1749209109 // tempered edge, heavy guard, relentless strike
+dimwishlist:item=54&perks=938542991,2349202967,3913600130 // tempered edge, heavy guard, whirlwind blade
+dimwishlist:item=54&perks=938542991,1749209109 // tempered edge, relentless strike
+dimwishlist:item=54&perks=938542991,3913600130 // tempered edge, whirlwind blade
+dimwishlist:item=54&perks=938542991,2349202967 // tempered edge, heavy guard
+dimwishlist:item=54&perks=938542991 // tempered edge

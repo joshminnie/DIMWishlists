@@ -4,10 +4,18 @@
 dimwishlist:item=6&perks=3142289711,2846385770 // accurized rounds, rangefinder
 dimwishlist:item=6&perks=3142289711 // accurized rounds
 
-// Service Revolver, Better Devils (Maximum range and stability)
-dimwishlist:item=6&perks=1926090092,3142289711,2846385770 // true sight hcs, accurized rounds, rangefinder
-dimwishlist:item=6&perks=1926090092,3142289711 // true sight hcs, accurized rounds
+// Better Devils (Maximum range and stability)
+dimwishlist:item=153979397&perks=1926090091,3142289711,2846385770 // sureshot hcs, accurized rounds, rangefinder
+dimwishlist:item=153979397&perks=1926090091,3142289711 // sureshot hcs, accurized rounds
+dimwishlist:item=153979397&perks=1926090092,3142289711,2846385770 // true sight hcs, accurized rounds, rangefinder
+dimwishlist:item=153979397&perks=1926090092,3142289711 // true sight hcs, accurized rounds
+
+// Service Revolver (Maximum range and stability)
+dimwishlist:item=834081972&perks=1926090091,3142289711,2846385770 // sureshot hcs, accurized rounds, rangefinder
+dimwishlist:item=834081972&perks=1926090091,3142289711 // sureshot hcs, accurized rounds
+dimwishlist:item=834081972&perks=1926090092,3142289711,2846385770 // true sight hcs, accurized rounds, rangefinder
+dimwishlist:item=834081972&perks=1926090092,3142289711 // true sight hcs, accurized rounds
 
 // Austringer
-dimwishlist:item=6&perks=1467527085,3142289711,2846385770 // extended barrel, accurized rounds, rangefinder
-dimwishlist:item=6&perks=1467527085,3142289711 // extended barrel, accurized rounds
+dimwishlist:item=2429822977&perks=1467527085,3142289711,2846385770 // extended barrel, accurized rounds, rangefinder
+dimwishlist:item=2429822977&perks=1467527085,3142289711 // extended barrel, accurized rounds
