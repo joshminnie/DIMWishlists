@@ -16,4 +16,4 @@ dimwislist:item=2408405461&perks=1168162263,1015611457 // outlaw, kill clip
 // Exotics
 
 // Outbreak Perfected
-dimwishlist:item=400096939&perks=4208418110,1467527085,3142289711,1168162263,3242533954
+dimwishlist:item=400096939

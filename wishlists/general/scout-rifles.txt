@@ -24,11 +24,6 @@ dimwishlist:item=3535742959&perks=3920852688,247725512,1015611457 // rapid hit, 
 
 // Exotics
 
-// Polaris Lance
-dimwishlist:item=3413074534&perks=1000724343,1482024992,106909392,2387244414,4259401308
-
-// The Jade Rabbit
-dimwishlist:item=3844694310&perks=3668782036,1392496348,1968497646,2387244414
-
-// MIDA Multi-Tool
-dimwishlist:item=1331482397&perks=377257911,4090651448,1561002382,3100590152,990298390
+dimwishlist:item=3413074534 // Polaris Lance
+dimwishlist:item=3844694310 // The Jade Rabbit
+dimwishlist:item=1331482397 // MIDA Multi-Tool

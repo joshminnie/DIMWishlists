@@ -13,6 +13,12 @@ dimwishlist:item=4095896073&perks=201365942,247725512 // rapid hit, archer's tem
 // Loaded Question (static roll)
 dimwishlist:item=580961571&perks=1019291327,2405638015,1483536627,3300816228,1427256713
 
+// General
+dimwishlist:item=9&perks=2969185026,1645158859,2213355989 // projection fuse, under pressure, high impact reserves
+dimwishlist:item=9&perks=2969185026,1645158859,1600092898 // projection fuse, under pressure, backup plan
+dimwishlist:item=9&perks=2969185026,1645158859,1890422124 // projection fuse, under pressure, tap the trigger
+dimwishlist:item=9&perks=2969185026,1645158859,2846385770 // projection fuse, under pressure, rangefinder
+
 // Erentil FR4
 dimwishlist:item=3027844941&perks=1628165636,2969185026,1645158859,2213355989 // torch hs3, projection fuse, under pressure, high impact reserves
 dimwishlist:item=3027844941&perks=1628165636,2969185026,1645158859,1600092898 // torch hs3, projection fuse, under pressure, backup plan
@@ -52,8 +58,7 @@ dimwishlist:item=253196586&perks=13792279,2969185026,280464955,2213355989 // cle
 
 // Exotic
 
-// Jotünn
-dimwishlist:item=417164956&perks=1656957541,332773068,1687452232,3275789089,862848869
+dimwishlist:item=417164956 // Jotünn
 
 // Grenade Launchers (Special)
 // -----------------------------------------------------------------------------
@@ -124,7 +129,7 @@ dimwislist:item=2408405461&perks=1168162263,1015611457 // outlaw, kill clip
 // Exotics
 
 // Outbreak Perfected
-dimwishlist:item=400096939&perks=4208418110,1467527085,3142289711,1168162263,3242533954
+dimwishlist:item=400096939
 
 // Rocket Launchers
 // -----------------------------------------------------------------------------
@@ -155,14 +160,9 @@ dimwishlist:item=3535742959&perks=3920852688,247725512,1015611457 // rapid hit, 
 
 // Exotics
 
-// Polaris Lance
-dimwishlist:item=3413074534&perks=1000724343,1482024992,106909392,2387244414,4259401308
-
-// The Jade Rabbit
-dimwishlist:item=3844694310&perks=3668782036,1392496348,1968497646,2387244414
-
-// MIDA Multi-Tool
-dimwishlist:item=1331482397&perks=377257911,4090651448,1561002382,3100590152,990298390
+dimwishlist:item=3413074534 // Polaris Lance
+dimwishlist:item=3844694310 // The Jade Rabbit
+dimwishlist:item=1331482397 // MIDA Multi-Tool
 
 // Shotguns
 // -----------------------------------------------------------------------------
@@ -188,11 +188,8 @@ dimwishlist:item=1115104187&perks=1294026524,247725512,1771339417 // firing line
 
 // Exotic
 
-// Izanagi's Burden
-dimwishlist:item=3211806999&perks=1070100196,3661387068,3142289711,1168162263,3465198467
-
-// Whisper of the Worm
-dimwishlist:item=1891561814&perks=281315705,1392496348,3142289711,3337692349,4259401308
+dimwishlist:item=3211806999 // Izanagi's Burden
+dimwishlist:item=1891561814 // Whisper of the Worm
 
 // Submachine Guns
 // -----------------------------------------------------------------------------
