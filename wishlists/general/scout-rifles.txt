@@ -22,6 +22,12 @@ dimwishlist:item=1931556011&perks=1636108362,247725512 // rapid hit
 // Randy's Throwing Knife
 dimwishlist:item=3535742959&perks=3920852688,247725512,1015611457 // rapid hit, kill clip
 
+// Patron of Lost Causes
+dimwishlist:item=2723241847&perks=202670084,3142289711,247725512,1774574192 // full bore, accurized rounds, rapid hit, osmosis
+dimwishlist:item=2723241847&perks=202670084,3142289711,247725512,3038247973 // full bore, accurized rounds, rapid hit, explosive payload
+dimwishlist:item=2723241847&perks=3250034553,3142289711,247725512,1774574192 // hammer-forged rifling, accurized rounds, rapid hit, osmosis
+dimwishlist:item=2723241847&perks=3250034553,3142289711,247725512,3038247973 // hammer-forged rifling, accurized rounds, rapid hit, explosive payload
+
 // Exotics
 
 dimwishlist:item=3413074534 // Polaris Lance

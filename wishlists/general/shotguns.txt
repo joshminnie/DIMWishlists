@@ -1,6 +1,12 @@
 // Shotguns
 // -----------------------------------------------------------------------------
 
-// Dust Rock Blues (Maximum range)
-// rifled barrel, accurized rounds (range masterwork recommended)
-dimwishlist:item=636912560&perks=466087222,3142289711
+// Dust Rock Blues
+dimwishlist:item=636912560&perks=466087222,3142289711 // rifled barrel, accurized rounds
+
+// Hawthorne's Field-Forged Shotgun
+dimwishlist:item=1807343361&perks=3142289711,1631667848,2679249093 // accurized rounds, grave robber, one-two punch
+
+// Perfect Paradox
+dimwishlist:item=3393519051&perks=1047830412,3230963543,3523296417,2360754333 // full choke, flared magwell, demolitionist, trench barrel
+dimwishlist:item=3393519051&perks=1047830412,3230963543,2869569095,2360754333 // full choke, flared magwell, field prep, trench barrel

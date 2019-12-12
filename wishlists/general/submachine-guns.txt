@@ -3,3 +3,7 @@
 
 // The Recluse (static roll)
 dimwishlist:item=3354242550&perks=1458010786,1392496348,1885400500,2779035018,3081867624
+
+// Cold Front
+dimwishlist:item=1506719573&perks=202670084,3142289711,2779035018,1774574192 // full bore, accurized rounds, feeding frenzy, osmosis
+dimwishlist:item=1506719573&perks=3250034553,3142289711,2779035018,1774574192 // hammer-forged rifling, accurized rounds, feeding frenzy, osmosis

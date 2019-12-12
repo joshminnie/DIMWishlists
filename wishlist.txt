@@ -1,6 +1,21 @@
 // Auto Rifles
 // -----------------------------------------------------------------------------
 
+// Steelfeather Repeater
+dimwishlist:item=1251729046&perks=202670084,1968497646,1820235745 // full bore, armor-piercing rounds, subsistence
+dimwishlist:item=1251729046&perks=202670084,1968497646,2779035018 // full bore, armor-piercing rounds, feeding frenzy
+dimwishlist:item=1251729046&perks=202670084,1561002382,1820235745 // full bore, high-caliber rounds, subsistence
+dimwishlist:item=1251729046&perks=202670084,1561002382,2779035018 // full bore, high-caliber rounds, feeding frenzy
+dimwishlist:item=1251729046&perks=202670084,1885400500,1820235745 // full bore, ricochet rounds, subsistence
+dimwishlist:item=1251729046&perks=202670084,1885400500,2779035018 // full bore, ricochet rounds, feeding frenzy
+
+dimwishlist:item=1251729046&perks=3250034553,1968497646,1820235745 // hammer-forged rifling, armor-piercing rounds, subsistence
+dimwishlist:item=1251729046&perks=3250034553,1968497646,2779035018 // hammer-forged rifling, armor-piercing rounds, feeding frenzy
+dimwishlist:item=1251729046&perks=3250034553,1561002382,1820235745 // hammer-forged rifling, high-caliber rounds, subsistence
+dimwishlist:item=1251729046&perks=3250034553,1561002382,2779035018 // hammer-forged rifling, high-caliber rounds, feeding frenzy
+dimwishlist:item=1251729046&perks=3250034553,1885400500,1820235745 // hammer-forged rifling, ricochet rounds, subsistence
+dimwishlist:item=1251729046&perks=3250034553,1885400500,2779035018 // hammer-forged rifling, ricochet rounds, feeding frenzy
+
 // Bows
 // -----------------------------------------------------------------------------
 
@@ -60,12 +75,15 @@ dimwishlist:item=253196586&perks=13792279,2969185026,280464955,2213355989 // cle
 
 dimwishlist:item=417164956 // Jotünn
 
-// Grenade Launchers (Special)
+// Grenade Launchers (Energy)
 // -----------------------------------------------------------------------------
 
 // The Mountaintop (static roll)
 dimwishlist:item=3993415705&perks=1458010786,981914802,3301904089,2846385770,3713839994
 
+// Martyr's Retribution
+dimwishlist:item=3850168899&perks=3300816228,3523296417 // auto-loading holster, demolitionist
+dimwishlist:item=3850168899&perks=2869569095,3523296417 // field prep, demolitionist
 
 
 // Grenade Launchers (Power)
@@ -98,11 +116,88 @@ dimwishlist:item=834081972&perks=1926090092,3142289711 // true sight hcs, accuri
 dimwishlist:item=2429822977&perks=1467527085,3142289711,2846385770 // extended barrel, accurized rounds, rangefinder
 dimwishlist:item=2429822977&perks=1467527085,3142289711 // extended barrel, accurized rounds
 
+// The Old Fashioned
+dimwishlist:item=3569802112&perks=1926090091,3142289711,3161816588,1015611457 // sureshot hcs, accurized rounds, slideshot, kill clip
+dimwishlist:item=3569802112&perks=1926090091,3142289711,3161816588,957782887 // sureshot hcs, accurized rounds, slideshot, snapshot sights
+dimwishlist:item=3569802112&perks=1926090091,3142289711,3161816588,3038247973 // sureshot hcs, accurized rounds, slideshot, explosive payload
+dimwishlist:item=3569802112&perks=1926090091,3142289711,3523296417,1015611457 // sureshot hcs, accurized rounds, demolitionist, kill clip
+dimwishlist:item=3569802112&perks=1926090091,3142289711,3523296417,957782887 // sureshot hcs, accurized rounds, demolitionist, snapshot sights
+dimwishlist:item=3569802112&perks=1926090091,3142289711,3523296417,3038247973 // sureshot hcs, accurized rounds, demolitionist, explosive payload
+dimwishlist:item=3569802112&perks=1926090091,3142289711,2779035018,1015611457 // sureshot hcs, accurized rounds, feeding frenzy, kill clip
+dimwishlist:item=3569802112&perks=1926090091,3142289711,2779035018,957782887 // sureshot hcs, accurized rounds, feeding frenzy, snapshot sights
+dimwishlist:item=3569802112&perks=1926090091,3142289711,2779035018,3038247973 // sureshot hcs, accurized rounds, feeding frenzy, explosive payload
+
+// Jack Queen King 3
+dimwishlist:item=410996590&perks=1926090091,1885400500,3300816228,957782887  // sureshot hcs, ricochet rounds, auto-loading holster, snapshot sights
+dimwishlist:item=410996590&perks=1926090091,1885400500,3300816228,3425386926  // sureshot hcs, ricochet rounds, auto-loading holster, rampage
+dimwishlist:item=410996590&perks=1926090091,1885400500,3300816228,2848615171  // sureshot hcs, ricochet rounds, auto-loading holster, dragonfly
+dimwishlist:item=410996590&perks=1926090091,1885400500,3300816228,3708227201  // sureshot hcs, ricochet rounds, auto-loading holster, surrounded
+dimwishlist:item=410996590&perks=1926090091,1885400500,3300816228,4082225868  // sureshot hcs, ricochet rounds, auto-loading holster, swashbuckler
+dimwishlist:item=410996590&perks=1926090091,1885400500,3523296417,957782887  // sureshot hcs, ricochet rounds, demolitionist, snapshot sights
+dimwishlist:item=410996590&perks=1926090091,1885400500,3523296417,3425386926  // sureshot hcs, ricochet rounds, demolitionist, rampage
+dimwishlist:item=410996590&perks=1926090091,1885400500,3523296417,2848615171  // sureshot hcs, ricochet rounds, demolitionist, dragonfly
+dimwishlist:item=410996590&perks=1926090091,1885400500,3523296417,3708227201  // sureshot hcs, ricochet rounds, demolitionist, surrounded
+dimwishlist:item=410996590&perks=1926090091,1885400500,3523296417,4082225868  // sureshot hcs, ricochet rounds, demolitionist, swashbuckler
+dimwishlist:item=410996590&perks=1926090091,1885400500,4071163871,957782887  // sureshot hcs, ricochet rounds, threat detector, snapshot sights
+dimwishlist:item=410996590&perks=1926090091,1885400500,4071163871,3425386926  // sureshot hcs, ricochet rounds, threat detector, rampage
+dimwishlist:item=410996590&perks=1926090091,1885400500,4071163871,2848615171  // sureshot hcs, ricochet rounds, threat detector, dragonfly
+dimwishlist:item=410996590&perks=1926090091,1885400500,4071163871,3708227201  // sureshot hcs, ricochet rounds, threat detector, surrounded
+dimwishlist:item=410996590&perks=1926090091,1885400500,4071163871,4082225868  // sureshot hcs, ricochet rounds, threat detector, swashbuckler
+dimwishlist:item=410996590&perks=1926090091,1885400500,1820235745,957782887  // sureshot hcs, ricochet rounds, subsistence, snapshot sights
+dimwishlist:item=410996590&perks=1926090091,1885400500,1820235745,3425386926  // sureshot hcs, ricochet rounds, subsistence, rampage
+dimwishlist:item=410996590&perks=1926090091,1885400500,1820235745,2848615171  // sureshot hcs, ricochet rounds, subsistence, dragonfly
+dimwishlist:item=410996590&perks=1926090091,1885400500,1820235745,3708227201  // sureshot hcs, ricochet rounds, subsistence, surrounded
+dimwishlist:item=410996590&perks=1926090091,1885400500,1820235745,4082225868  // sureshot hcs, ricochet rounds, subsistence, swashbuckler
+dimwishlist:item=410996590&perks=1926090091,1968497646,3300816228,957782887  // sureshot hcs, armor-piercing rounds, auto-loading holster, snapshot sights
+dimwishlist:item=410996590&perks=1926090091,1968497646,3300816228,3425386926  // sureshot hcs, armor-piercing rounds, auto-loading holster, rampage
+dimwishlist:item=410996590&perks=1926090091,1968497646,3300816228,2848615171  // sureshot hcs, armor-piercing rounds, auto-loading holster, dragonfly
+dimwishlist:item=410996590&perks=1926090091,1968497646,3300816228,3708227201  // sureshot hcs, armor-piercing rounds, auto-loading holster, surrounded
+dimwishlist:item=410996590&perks=1926090091,1968497646,3300816228,4082225868  // sureshot hcs, armor-piercing rounds, auto-loading holster, swashbuckler
+dimwishlist:item=410996590&perks=1926090091,1968497646,3523296417,957782887  // sureshot hcs, armor-piercing rounds, demolitionist, snapshot sights
+dimwishlist:item=410996590&perks=1926090091,1968497646,3523296417,3425386926  // sureshot hcs, armor-piercing rounds, demolitionist, rampage
+dimwishlist:item=410996590&perks=1926090091,1968497646,3523296417,2848615171  // sureshot hcs, armor-piercing rounds, demolitionist, dragonfly
+dimwishlist:item=410996590&perks=1926090091,1968497646,3523296417,3708227201  // sureshot hcs, armor-piercing rounds, demolitionist, surrounded
+dimwishlist:item=410996590&perks=1926090091,1968497646,3523296417,4082225868  // sureshot hcs, armor-piercing rounds, demolitionist, swashbuckler
+dimwishlist:item=410996590&perks=1926090091,1968497646,4071163871,957782887  // sureshot hcs, armor-piercing rounds, threat detector, snapshot sights
+dimwishlist:item=410996590&perks=1926090091,1968497646,4071163871,3425386926  // sureshot hcs, armor-piercing rounds, threat detector, rampage
+dimwishlist:item=410996590&perks=1926090091,1968497646,4071163871,2848615171  // sureshot hcs, armor-piercing rounds, threat detector, dragonfly
+dimwishlist:item=410996590&perks=1926090091,1968497646,4071163871,3708227201  // sureshot hcs, armor-piercing rounds, threat detector, surrounded
+dimwishlist:item=410996590&perks=1926090091,1968497646,4071163871,4082225868  // sureshot hcs, armor-piercing rounds, threat detector, swashbuckler
+dimwishlist:item=410996590&perks=1926090091,1968497646,1820235745,957782887  // sureshot hcs, armor-piercing rounds, subsistence, snapshot sights
+dimwishlist:item=410996590&perks=1926090091,1968497646,1820235745,3425386926  // sureshot hcs, armor-piercing rounds, subsistence, rampage
+dimwishlist:item=410996590&perks=1926090091,1968497646,1820235745,2848615171  // sureshot hcs, armor-piercing rounds, subsistence, dragonfly
+dimwishlist:item=410996590&perks=1926090091,1968497646,1820235745,3708227201  // sureshot hcs, armor-piercing rounds, subsistence, surrounded
+dimwishlist:item=410996590&perks=1926090091,1968497646,1820235745,4082225868  // sureshot hcs, armor-piercing rounds, subsistence, swashbuckler
+dimwishlist:item=410996590&perks=1926090091,1561002382,3300816228,957782887  // sureshot hcs, high-caliber rounds, auto-loading holster, snapshot sights
+dimwishlist:item=410996590&perks=1926090091,1561002382,3300816228,3425386926  // sureshot hcs, high-caliber rounds, auto-loading holster, rampage
+dimwishlist:item=410996590&perks=1926090091,1561002382,3300816228,2848615171  // sureshot hcs, high-caliber rounds, auto-loading holster, dragonfly
+dimwishlist:item=410996590&perks=1926090091,1561002382,3300816228,3708227201  // sureshot hcs, high-caliber rounds, auto-loading holster, surrounded
+dimwishlist:item=410996590&perks=1926090091,1561002382,3300816228,4082225868  // sureshot hcs, high-caliber rounds, auto-loading holster, swashbuckler
+dimwishlist:item=410996590&perks=1926090091,1561002382,3523296417,957782887  // sureshot hcs, high-caliber rounds, demolitionist, snapshot sights
+dimwishlist:item=410996590&perks=1926090091,1561002382,3523296417,3425386926  // sureshot hcs, high-caliber rounds, demolitionist, rampage
+dimwishlist:item=410996590&perks=1926090091,1561002382,3523296417,2848615171  // sureshot hcs, high-caliber rounds, demolitionist, dragonfly
+dimwishlist:item=410996590&perks=1926090091,1561002382,3523296417,3708227201  // sureshot hcs, high-caliber rounds, demolitionist, surrounded
+dimwishlist:item=410996590&perks=1926090091,1561002382,3523296417,4082225868  // sureshot hcs, high-caliber rounds, demolitionist, swashbuckler
+dimwishlist:item=410996590&perks=1926090091,1561002382,4071163871,957782887  // sureshot hcs, high-caliber rounds, threat detector, snapshot sights
+dimwishlist:item=410996590&perks=1926090091,1561002382,4071163871,3425386926  // sureshot hcs, high-caliber rounds, threat detector, rampage
+dimwishlist:item=410996590&perks=1926090091,1561002382,4071163871,2848615171  // sureshot hcs, high-caliber rounds, threat detector, dragonfly
+dimwishlist:item=410996590&perks=1926090091,1561002382,4071163871,3708227201  // sureshot hcs, high-caliber rounds, threat detector, surrounded
+dimwishlist:item=410996590&perks=1926090091,1561002382,4071163871,4082225868  // sureshot hcs, high-caliber rounds, threat detector, swashbuckler
+dimwishlist:item=410996590&perks=1926090091,1561002382,1820235745,957782887  // sureshot hcs, high-caliber rounds, subsistence, snapshot sights
+dimwishlist:item=410996590&perks=1926090091,1561002382,1820235745,3425386926  // sureshot hcs, high-caliber rounds, subsistence, rampage
+dimwishlist:item=410996590&perks=1926090091,1561002382,1820235745,2848615171  // sureshot hcs, high-caliber rounds, subsistence, dragonfly
+dimwishlist:item=410996590&perks=1926090091,1561002382,1820235745,3708227201  // sureshot hcs, high-caliber rounds, subsistence, surrounded
+dimwishlist:item=410996590&perks=1926090091,1561002382,1820235745,4082225868  // sureshot hcs, high-caliber rounds, subsistence, swashbuckler
+
 // TRASH LIST
 dimwishlist:item=-2112909415 // Ten Paces
 
 // Linear Fusion Rifles
 // -----------------------------------------------------------------------------
+
+// Line in the Sand
+dimwishlist:item=946443267&perks=202670084,1687452232,247725512,1771339417 // full bore, liquid coils, rapid hit, firing line
+dimwishlist:item=946443267&perks=3250034553,1687452232,247725512,1771339417 // hammer-forged rifling, liquid coils, rapid hit, firing line
 
 // Machine Guns
 // -----------------------------------------------------------------------------
@@ -158,6 +253,12 @@ dimwishlist:item=1931556011&perks=1636108362,247725512 // rapid hit
 // Randy's Throwing Knife
 dimwishlist:item=3535742959&perks=3920852688,247725512,1015611457 // rapid hit, kill clip
 
+// Patron of Lost Causes
+dimwishlist:item=2723241847&perks=202670084,3142289711,247725512,1774574192 // full bore, accurized rounds, rapid hit, osmosis
+dimwishlist:item=2723241847&perks=202670084,3142289711,247725512,3038247973 // full bore, accurized rounds, rapid hit, explosive payload
+dimwishlist:item=2723241847&perks=3250034553,3142289711,247725512,1774574192 // hammer-forged rifling, accurized rounds, rapid hit, osmosis
+dimwishlist:item=2723241847&perks=3250034553,3142289711,247725512,3038247973 // hammer-forged rifling, accurized rounds, rapid hit, explosive payload
+
 // Exotics
 
 dimwishlist:item=3413074534 // Polaris Lance
@@ -167,9 +268,15 @@ dimwishlist:item=1331482397 // MIDA Multi-Tool
 // Shotguns
 // -----------------------------------------------------------------------------
 
-// Dust Rock Blues (Maximum range)
-// rifled barrel, accurized rounds (range masterwork recommended)
-dimwishlist:item=636912560&perks=466087222,3142289711
+// Dust Rock Blues
+dimwishlist:item=636912560&perks=466087222,3142289711 // rifled barrel, accurized rounds
+
+// Hawthorne's Field-Forged Shotgun
+dimwishlist:item=1807343361&perks=3142289711,1631667848,2679249093 // accurized rounds, grave robber, one-two punch
+
+// Perfect Paradox
+dimwishlist:item=3393519051&perks=1047830412,3230963543,3523296417,2360754333 // full choke, flared magwell, demolitionist, trench barrel
+dimwishlist:item=3393519051&perks=1047830412,3230963543,2869569095,2360754333 // full choke, flared magwell, field prep, trench barrel
 
 // Sidearms
 // -----------------------------------------------------------------------------
@@ -185,6 +292,9 @@ dimwishlist:item=1115104187&perks=1294026524,1354429876,1771339417 // firing lin
 dimwishlist:item=1115104187&perks=1294026524,2869569095,1771339417 // firing line, field prep
 dimwishlist:item=1115104187&perks=1294026524,247725512,1771339417 // firing line, rapid hit
 
+// Trophy Hunter
+dimwishlist:item=4166221755&perks=202670084,3142289711,3400784728,1546637391 // full bore, accurized rounds, triple tap, vorpal weapon
+dimwishlist:item=4166221755&perks=3250034553,3142289711,3400784728,1546637391 // hammer-forged rifling, accurized rounds, triple tap, vorpal weapon
 
 // Exotic
 
@@ -196,6 +306,10 @@ dimwishlist:item=1891561814 // Whisper of the Worm
 
 // The Recluse (static roll)
 dimwishlist:item=3354242550&perks=1458010786,1392496348,1885400500,2779035018,3081867624
+
+// Cold Front
+dimwishlist:item=1506719573&perks=202670084,3142289711,2779035018,1774574192 // full bore, accurized rounds, feeding frenzy, osmosis
+dimwishlist:item=1506719573&perks=3250034553,3142289711,2779035018,1774574192 // hammer-forged rifling, accurized rounds, feeding frenzy, osmosis
 
 // Swords
 // -----------------------------------------------------------------------------
