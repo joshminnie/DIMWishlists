@@ -2,13 +2,18 @@
 // -----------------------------------------------------------------------------
 
 // Steelfeather Repeater
+dimwishlist:item=1251729046&perks=1968497646,1820235745 // armor-piercing rounds, subsistence
+dimwishlist:item=1251729046&perks=1968497646,2779035018 // armor-piercing rounds, feeding frenzy
+dimwishlist:item=1251729046&perks=1561002382,1820235745 // high-caliber rounds, subsistence
+dimwishlist:item=1251729046&perks=1561002382,2779035018 // high-caliber rounds, feeding frenzy
+dimwishlist:item=1251729046&perks=1885400500,1820235745 // ricochet rounds, subsistence
+dimwishlist:item=1251729046&perks=1885400500,2779035018 // ricochet rounds, feeding frenzy
 dimwishlist:item=1251729046&perks=202670084,1968497646,1820235745 // full bore, armor-piercing rounds, subsistence
 dimwishlist:item=1251729046&perks=202670084,1968497646,2779035018 // full bore, armor-piercing rounds, feeding frenzy
 dimwishlist:item=1251729046&perks=202670084,1561002382,1820235745 // full bore, high-caliber rounds, subsistence
 dimwishlist:item=1251729046&perks=202670084,1561002382,2779035018 // full bore, high-caliber rounds, feeding frenzy
 dimwishlist:item=1251729046&perks=202670084,1885400500,1820235745 // full bore, ricochet rounds, subsistence
 dimwishlist:item=1251729046&perks=202670084,1885400500,2779035018 // full bore, ricochet rounds, feeding frenzy
-
 dimwishlist:item=1251729046&perks=3250034553,1968497646,1820235745 // hammer-forged rifling, armor-piercing rounds, subsistence
 dimwishlist:item=1251729046&perks=3250034553,1968497646,2779035018 // hammer-forged rifling, armor-piercing rounds, feeding frenzy
 dimwishlist:item=1251729046&perks=3250034553,1561002382,1820235745 // hammer-forged rifling, high-caliber rounds, subsistence
