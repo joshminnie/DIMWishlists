@@ -20,3 +20,6 @@ dimwishlist:item=1251729046&perks=3250034553,1561002382,1820235745 // hammer-for
 dimwishlist:item=1251729046&perks=3250034553,1561002382,2779035018 // hammer-forged rifling, high-caliber rounds, feeding frenzy
 dimwishlist:item=1251729046&perks=3250034553,1885400500,1820235745 // hammer-forged rifling, ricochet rounds, subsistence
 dimwishlist:item=1251729046&perks=3250034553,1885400500,2779035018 // hammer-forged rifling, ricochet rounds, feeding frenzy
+
+// Galliard-42 XN7568
+dimwishlist:item=1775804198&perks=3151536503,1885400500,1359896290,2846385770 // SPO-26 Front, Ricochet Rounds, Dynamic Sway Reduction, Rangefinder
