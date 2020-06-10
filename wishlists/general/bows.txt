@@ -3,3 +3,7 @@
 
 // Accrued Redemption
 dimwishlist:item=4095896073&perks=201365942,247725512 // rapid hit, archer's tempo
+
+// Arsenic Bite-4b
+dimwishlist:item=720351795&perks=852209214,2848615171,3365897133 // polymer string, dragonfly, explosive head
+dimwishlist:item=720351795&perks=852209214,3425386926,3365897133 // polymer string, rampage, explosive head

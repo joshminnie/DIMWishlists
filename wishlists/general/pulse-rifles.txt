@@ -7,6 +7,7 @@ dimwishlist:item=7&perks=1168162263,1015611457 // outlaw, kill clip
 dimwishlist:item=7&perks=3142289711,1168162263,1015611457 // accurized rounds, outlaw, kill clip
 dimwishlist:item=7&perks=1561002382,1168162263,1015611457 // high caliber rounds, outlaw, kill clip
 dimwishlist:item=7&perks=1885400500,1168162263,1015611457 // ricochet rounds, outlaw, kill clip
+dimwishlist:item=7&perks=679225683,1168162263,1015611457 // light mag, outlaw, kill clip
 
 // Sacred Provenance
 dimwislist:item=2408405461&perks=247725512,1015611457 // rapid hit, kill clip
