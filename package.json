@@ -3,11 +3,14 @@
   "version": "1.0.0",
   "description": "Wishlist of weapons and armor to make determining good rolls and god rolls easy and quick.",
   "main": "gulpfile.js",
-  "dependencies": {},
+  "dependencies": {
+    "kind-of": ">=6.0.3",
+    "minimist": ">=1.2.3"
+  },
   "devDependencies": {
-    "del": "^5.1.0",
-    "gulp": "^4.0.2",
-    "gulp-concat": "^2.6.1"
+    "del": ">=5.1.0",
+    "gulp": ">=4.0.2",
+    "gulp-concat": ">=2.6.1"
   },
   "scripts": {
     "start": "gulp;gulp compile",
