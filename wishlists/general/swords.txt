@@ -15,3 +15,4 @@ dimwishlist:item=54&perks=938542991,1749209109 // tempered edge, relentless stri
 dimwishlist:item=54&perks=938542991,3913600130 // tempered edge, whirlwind blade
 dimwishlist:item=54&perks=938542991,2349202967 // tempered edge, heavy guard
 dimwishlist:item=54&perks=938542991 // tempered edge
+dimwishlist:item=54&perks=1749209109,3913600130 // relentless strike, whirlwind blade

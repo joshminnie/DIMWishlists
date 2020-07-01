@@ -4,6 +4,9 @@
 dimwishlist:item=6&perks=3142289711,2846385770 // accurized rounds, rangefinder
 dimwishlist:item=6&perks=3142289711 // accurized rounds
 
+// Midnight Coup (static roll)
+dimwishlist:item=1128225405
+
 // Better Devils (Maximum range and stability)
 dimwishlist:item=153979397&perks=1926090091,3142289711,2846385770 // sureshot hcs, accurized rounds, rangefinder
 dimwishlist:item=153979397&perks=1926090091,3142289711 // sureshot hcs, accurized rounds

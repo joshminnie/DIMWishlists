@@ -21,11 +21,18 @@ dimwishlist:item=1251729046&perks=3250034553,1561002382,2779035018 // hammer-for
 dimwishlist:item=1251729046&perks=3250034553,1885400500,1820235745 // hammer-forged rifling, ricochet rounds, subsistence
 dimwishlist:item=1251729046&perks=3250034553,1885400500,2779035018 // hammer-forged rifling, ricochet rounds, feeding frenzy
 
+// Galliard-42 XN7568
+dimwishlist:item=1775804198&perks=3151536503,1885400500,1359896290,2846385770 // SPO-26 Front, Ricochet Rounds, Dynamic Sway Reduction, Rangefinder
+
 // Bows
 // -----------------------------------------------------------------------------
 
 // Accrued Redemption
 dimwishlist:item=4095896073&perks=201365942,247725512 // rapid hit, archer's tempo
+
+// Arsenic Bite-4b
+dimwishlist:item=720351795&perks=852209214,2848615171,3365897133 // polymer string, dragonfly, explosive head
+dimwishlist:item=720351795&perks=852209214,3425386926,3365897133 // polymer string, rampage, explosive head
 
 // Fusion Rifles
 // -----------------------------------------------------------------------------
@@ -84,7 +91,7 @@ dimwishlist:item=417164956 // Jotünn
 // -----------------------------------------------------------------------------
 
 // The Mountaintop (static roll)
-dimwishlist:item=3993415705&perks=1458010786,981914802,3301904089,2846385770,3713839994
+dimwishlist:item=3993415705
 
 // Martyr's Retribution
 dimwishlist:item=3850168899&perks=3300816228,3523296417 // auto-loading holster, demolitionist
@@ -104,6 +111,9 @@ dimwishlist:item=153950757&perks=2353477480,981914802,3301904089 // hard launch,
 
 dimwishlist:item=6&perks=3142289711,2846385770 // accurized rounds, rangefinder
 dimwishlist:item=6&perks=3142289711 // accurized rounds
+
+// Midnight Coup (static roll)
+dimwishlist:item=1128225405
 
 // Better Devils (Maximum range and stability)
 dimwishlist:item=153979397&perks=1926090091,3142289711,2846385770 // sureshot hcs, accurized rounds, rangefinder
@@ -220,6 +230,7 @@ dimwishlist:item=7&perks=1168162263,1015611457 // outlaw, kill clip
 dimwishlist:item=7&perks=3142289711,1168162263,1015611457 // accurized rounds, outlaw, kill clip
 dimwishlist:item=7&perks=1561002382,1168162263,1015611457 // high caliber rounds, outlaw, kill clip
 dimwishlist:item=7&perks=1885400500,1168162263,1015611457 // ricochet rounds, outlaw, kill clip
+dimwishlist:item=7&perks=679225683,1168162263,1015611457 // light mag, outlaw, kill clip
 
 // Sacred Provenance
 dimwislist:item=2408405461&perks=247725512,1015611457 // rapid hit, kill clip
@@ -333,6 +344,7 @@ dimwishlist:item=54&perks=938542991,1749209109 // tempered edge, relentless stri
 dimwishlist:item=54&perks=938542991,3913600130 // tempered edge, whirlwind blade
 dimwishlist:item=54&perks=938542991,2349202967 // tempered edge, heavy guard
 dimwishlist:item=54&perks=938542991 // tempered edge
+dimwishlist:item=54&perks=1749209109,3913600130 // relentless strike, whirlwind blade
 
 title:This is a compiled collection of god/recommended rolls from top community minds.
 description:Thanks to u/Mercules904, u/pandapaxxy, u/HavocsCall, and @chrisfried for their contributions. Ping u/48klocs / @48klocs with any issues.
