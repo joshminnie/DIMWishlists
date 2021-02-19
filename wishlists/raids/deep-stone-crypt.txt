@@ -1,0 +1,23 @@
+// Deep Stone Crypt
+// -----------------------------------------------------------------------------
+
+// Opening the Crypt
+// -----------------------------------------------------------------------------
+// This is really a precursor to the main encounters. You will see mostly void
+// shields, so something that can strip the shields is helpful. There really
+// isn't a requirement here as long as you can clear ads, which include Vandals,
+// Captains and even Brigs.
+
+// Encounter 1: Crypt Security
+// -----------------------------------------------------------------------------
+
+
+// Encounter 2: Atraks-1
+// -----------------------------------------------------------------------------
+
+
+// Space Walk
+// -----------------------------------------------------------------------------
+
+
+// Encounter 3: Taniks Part 1
