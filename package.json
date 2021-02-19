@@ -13,7 +13,7 @@
     "gulp-concat": ">=2.6.1"
   },
   "scripts": {
-    "start": "gulp && gulp compile",
+    "build": "gulp",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
