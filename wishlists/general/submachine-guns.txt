@@ -5,6 +5,7 @@
 dimwishlist:item=3354242550&perks=1458010786,1392496348,1885400500,2779035018,3081867624
 
 // Extraordinary Rendition
+//notes:TruePico: "This feels a lot like Recluse reworked. Frenzy and Overflow make a really good combination on this gun.|Recommended MW: Reload or Stability
 dimwishlist:item=1097616550&perks=4090651448,3142289711,3643424744,3425386926
 dimwishlist:item=1097616550&perks=4090651448,3142289711,3643424744,4104185692
 dimwishlist:item=1097616550&perks=4090651448,3142289711,1168162263,3425386926
