@@ -1,24 +1,25 @@
 // Sniper Rifles
 // -----------------------------------------------------------------------------
 
+// Generic Sniper Rolls
+
+// Adaptive Frame Sniper Rifles
+dimwishlist:item=10&perks=1294026524,1771339417 // firing line
+dimwishlist:item=10&perks=1294026524,1885400500,1771339417 // firing line, ricochet rounds
+dimwishlist:item=10&perks=1294026524,3400784728,1771339417 // firing line, triple tap
+dimwishlist:item=10&perks=1294026524,1354429876,1771339417 // firing line, fourth times the charm
+dimwishlist:item=10&perks=1294026524,2869569095,1771339417 // firing line, field prep
+dimwishlist:item=10&perks=1294026524,247725512,1771339417 // firing line, rapid hit
+
+// Agressive Frame Sniper Rifles
+dimwishlist:item=10&perks=3468089894,202670084,3142289711,3400784728,1546637391 // full bore, accurized rounds, triple tap, vorpal weapon
+dimwishlist:item=10&perks=3468089894,3250034553,3142289711,3400784728,1546637391 // hammer-forged rifling, accurized rounds, triple tap, vorpal weapon
 
 // Succession
 //notes:TruePico: This is a great sniper for working on champions in grand master nightfalls. Recommended MW: Handling or Stability
 dimwishlist:item=2990047042&perks=1523832109,1546637391#notes:TruePico: Champion-buster god roll #pve #champions
 dimwishlist:item=2990047042&perks=588594999,957782887#notes:TruePico: Flexible sniper for #pvp
 dimwishlist:item=2990047042&perks=1523832109,2726471870#note:TruePico: Good for killing trash mobs and getting super back #pve
-
-// Sole Survivor
-dimwishlist:item=1115104187&perks=1294026524,1771339417 // firing line
-dimwishlist:item=1115104187&perks=1294026524,1885400500,1771339417 // firing line, ricochet rounds
-dimwishlist:item=1115104187&perks=1294026524,3400784728,1771339417 // firing line, triple tap
-dimwishlist:item=1115104187&perks=1294026524,1354429876,1771339417 // firing line, fourth times the charm
-dimwishlist:item=1115104187&perks=1294026524,2869569095,1771339417 // firing line, field prep
-dimwishlist:item=1115104187&perks=1294026524,247725512,1771339417 // firing line, rapid hit
-
-// Trophy Hunter
-dimwishlist:item=4166221755&perks=202670084,3142289711,3400784728,1546637391 // full bore, accurized rounds, triple tap, vorpal weapon
-dimwishlist:item=4166221755&perks=3250034553,3142289711,3400784728,1546637391 // hammer-forged rifling, accurized rounds, triple tap, vorpal weapon
 
 // Exotic
 
