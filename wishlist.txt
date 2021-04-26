@@ -707,6 +707,12 @@ dimwishlist:item=2121785039&perks=4090651448,1561002382,2450788523,3350417888
 // Sniper Rifles
 // -----------------------------------------------------------------------------
 
+
+// Succession
+//notes:TruePico: "This is a great sniper for working on champions in grand master nightfalls." Recommended MW: Handling or Stability
+dimwishlist:item=2990047042&perks=1523832109,1546637391#notes:TruePico "Champion-buster god roll" #pve #champions
+dimwishlist:item=2990047042&perks=1523832109,2726471870#notes:TruePico "Champion-buster god roll" #pve #champions
+
 // Sole Survivor
 dimwishlist:item=1115104187&perks=1294026524,1771339417 // firing line
 dimwishlist:item=1115104187&perks=1294026524,1885400500,1771339417 // firing line, ricochet rounds
@@ -731,7 +737,7 @@ dimwishlist:item=1891561814 // Whisper of the Worm
 dimwishlist:item=3354242550&perks=1458010786,1392496348,1885400500,2779035018,3081867624
 
 // Extraordinary Rendition
-//notes:TruePico: "This feels a lot like Recluse reworked. Frenzy and Overflow make a really good combination on this gun.|Recommended MW: Reload or Stability
+//notes:TruePico: "This feels a lot like Recluse reworked. Frenzy and Overflow make a really good combination on this gun." Recommended MW: Reload or Stability
 dimwishlist:item=1097616550&perks=4090651448,3142289711,3643424744,3425386926
 dimwishlist:item=1097616550&perks=4090651448,3142289711,3643424744,4104185692
 dimwishlist:item=1097616550&perks=4090651448,3142289711,1168162263,3425386926

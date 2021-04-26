@@ -1,6 +1,12 @@
 // Sniper Rifles
 // -----------------------------------------------------------------------------
 
+
+// Succession
+//notes:TruePico: "This is a great sniper for working on champions in grand master nightfalls." Recommended MW: Handling or Stability
+dimwishlist:item=2990047042&perks=1523832109,1546637391#notes:TruePico "Champion-buster god roll" #pve #champions
+dimwishlist:item=2990047042&perks=1523832109,2726471870#notes:TruePico "Champion-buster god roll" #pve #champions
+
 // Sole Survivor
 dimwishlist:item=1115104187&perks=1294026524,1771339417 // firing line
 dimwishlist:item=1115104187&perks=1294026524,1885400500,1771339417 // firing line, ricochet rounds
