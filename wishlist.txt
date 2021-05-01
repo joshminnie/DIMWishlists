@@ -724,6 +724,8 @@ dimwishlist:item=10&perks=3468089894,3250034553,3142289711,3400784728,1546637391
 // Succession
 //notes:TruePico: This is a great sniper for working on champions in grand master nightfalls. Recommended MW: Handling or Stability
 dimwishlist:item=2990047042&perks=1523832109,1546637391#notes:TruePico: Champion-buster god roll #pve #champions
+dimwishlist:item=2990047042&perks=4090651448,106909392,1523832109,1546637391#notes:TruePico: Champion-buster god roll #pve #champions
+dimwishlist:item=2990047042&perks=1482024992,106909392,1523832109,1546637391#notes:TruePico: Champion-buster god roll #pve #champions
 dimwishlist:item=2990047042&perks=588594999,957782887#notes:TruePico: Flexible sniper for #pvp
 dimwishlist:item=2990047042&perks=1523832109,2726471870#note:TruePico: Good for killing trash mobs and getting super back #pve
 
