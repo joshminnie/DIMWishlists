@@ -1,9 +1,9 @@
 #!/usr/bin/env ruby
 # frozen_string_literal: false
 
-require 'paint'
-require_relative '../lib/wishlist'
-require_relative '../lib/wishlist_item'
+require "paint"
+require_relative "../lib/wishlist"
+require_relative "../lib/wishlist_item"
 
 def user_input(message, color: [:white])
   print Paint[message, *color]
@@ -11,19 +11,19 @@ def user_input(message, color: [:white])
 end
 
 begin
-  id = user_input('Item ID: ', color: [:blue, :bright])
-  name = user_input('Item Name (optional): ', color: [:blue])
-  slot1_values = user_input('Slot 1 Perks (comma separated, optional): ', color: [:blue]).split(',')
-  slot2_values = user_input('Slot 2 Perks (comma separated, optional): ', color: [:blue]).split(',')
-  slot3_values = user_input('Slot 3 Perks (comma separated, optional): ', color: [:blue]).split(',')
-  slot4_values = user_input('Slot 4 Perks (comma separated, optional): ', color: [:blue]).split(',')
+  id = user_input("Item ID: ", color: [:blue, :bright])
+  name = user_input("Item Name (optional): ", color: [:blue])
+  slot1_values = user_input("Slot 1 Perks (comma separated, optional): ", color: [:blue]).split(",")
+  slot2_values = user_input("Slot 2 Perks (comma separated, optional): ", color: [:blue]).split(",")
+  slot3_values = user_input("Slot 3 Perks (comma separated, optional): ", color: [:blue]).split(",")
+  slot4_values = user_input("Slot 4 Perks (comma separated, optional): ", color: [:blue]).split(",")
 
   wishlist = Wishlist.new(id: id, name: name)
   wishlist.permute(slot1_values: slot1_values, slot2_values: slot2_values, slot3_values: slot3_values, slot4_values: slot4_values)
 
-  puts '', wishlist, ''
+  puts "", wishlist, ""
 
-  puts Paint['Permutations generated.', :green]
+  puts Paint["Permutations generated.", :green]
 rescue Interrupt
-  puts '', Paint['Exiting due to interrupt.', :yellow]
+  puts "", Paint["Exiting due to interrupt.", :yellow]
 end

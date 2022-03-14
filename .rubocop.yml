@@ -1,3 +1,5 @@
+inherit_from: .rubocop_todo.yml
+
 AllCops:
   DisplayCopNames: true
   NewCops: enable
@@ -12,23 +14,8 @@ AllCops:
 Layout/LineLength:
   Max: 131
 
-Metrics/AbcSize:
-  Enabled: false
-
-Metrics/BlockLength:
-  Enabled: false
-
-Metrics/MethodLength:
-  Enabled: false
-
-Style/Alias:
-  EnforcedStyle: prefer_alias_method
-
-Style/IfUnlessModifier:
-  Enabled: false
-
-Style/RegexpLiteral:
-  Enabled: false
+Style/StringLiterals:
+  EnforcedStyle: double_quotes
 
 Style/SymbolArray:
   EnforcedStyle: brackets

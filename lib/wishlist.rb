@@ -1,5 +1,6 @@
 # frozen_string_literal: true
 
+# Used by bin/permute to build out permutations of Wishlist items.
 class Wishlist
   attr_reader :id, :name, :items
 
@@ -19,7 +20,7 @@ class Wishlist
   def to_s
     output = +""
 
-    output << "// #{name}\n" if !name&.empty?
+    output << "// #{name}\n" if name
     output << items.map(&:to_s).join("\n") << "\n" if items
 
     output
