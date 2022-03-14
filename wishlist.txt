@@ -1,3 +1,62 @@
+// Deep Stone Crypt
+// -----------------------------------------------------------------------------
+
+// Opening the Crypt
+// -----------------------------------------------------------------------------
+// This is really a precursor to the main encounters. You will see mostly void
+// shields, so something that can strip the shields is helpful. There really
+// isn't a requirement here as long as you can clear ads, which include Vandals,
+// Captains and even Brigs.
+
+// Encounter 1: Crypt Security
+// -----------------------------------------------------------------------------
+
+
+// Encounter 2: Atraks-1
+// -----------------------------------------------------------------------------
+
+
+// Space Walk
+// -----------------------------------------------------------------------------
+
+
+// Encounter 3: Taniks Part 1
+
+// Garden of Salvation
+// -----------------------------------------------------------------------------
+
+// Encounter 1: Evade the Consecrated Mind
+// -----------------------------------------------------------------------------
+// This encounter is very flexible in your choice of weapons. There are a lot of
+// void shields, so best to take something that can rip through those shields as
+// quickly as possible. Also, for the current season, anything with Anti-Barrier
+// rounds will help with the hobgoblins.
+
+
+
+// Encounter 2: Summon the Consecrated Mind
+// -----------------------------------------------------------------------------
+// The key here is quickly killing your ads, so something for quick.
+
+
+
+// Encounter 3: Defeat the Consecrated Mind
+// -----------------------------------------------------------------------------
+
+// Izanagi's Burden (with completed catalyst)
+dimwishlist:item=3211806999&perks=1070100196,3661387068,3142289711,1168162263,3465198467
+
+
+
+// Encounter 4: Defeat the Sanctified Mind
+// -----------------------------------------------------------------------------
+
+// Izanagi's Burden (with completed catalyst)
+dimwishlist:item=3211806999&perks=1070100196,3661387068,3142289711,1168162263,3465198467
+
+// Last Wish
+// -----------------------------------------------------------------------------
+
 // Auto Rifles
 // -----------------------------------------------------------------------------
 
@@ -487,6 +546,48 @@ dimwishlist:item=2856514843&perks=1561002382,4104185692
 dimwishlist:item=2856514843&perks=1561002382,124408337
 dimwishlist:item=2856514843&perks=1561002382,2846385770
 
+// Piece of Mind
+dimwishlist:item=2097055732,839105230,1885400500,1570042021,11612903
+dimwishlist:item=2097055732,839105230,1561002382,1570042021,11612903
+dimwishlist:item=2097055732,839105230,679225683,1570042021,11612903
+dimwishlist:item=2097055732,839105230,3230963543,1570042021,11612903
+
+dimwishlist:item=2097055732,839105230,1885400500,1428297954,11612903
+dimwishlist:item=2097055732,839105230,1561002382,1428297954,11612903
+dimwishlist:item=2097055732,839105230,679225683,1428297954,11612903
+dimwishlist:item=2097055732,839105230,3230963543,1428297954,11612903
+
+dimwishlist:item=2097055732,839105230,1885400500,3643424744,11612903
+dimwishlist:item=2097055732,839105230,1561002382,3643424744,11612903
+dimwishlist:item=2097055732,839105230,679225683,3643424744,11612903
+dimwishlist:item=2097055732,839105230,3230963543,3643424744,11612903
+
+dimwishlist:item=2097055732,839105230,1885400500,671806388,11612903
+dimwishlist:item=2097055732,839105230,1561002382,671806388,11612903
+dimwishlist:item=2097055732,839105230,679225683,671806388,11612903
+dimwishlist:item=2097055732,839105230,3230963543,671806388,11612903
+
+dimwishlist:item=2097055732,839105230,1885400500,1570042021,1546637391
+dimwishlist:item=2097055732,839105230,1561002382,1570042021,1546637391
+dimwishlist:item=2097055732,839105230,679225683,1570042021,1546637391
+dimwishlist:item=2097055732,839105230,3230963543,1570042021,1546637391
+
+dimwishlist:item=2097055732,839105230,1885400500,1428297954,1546637391
+dimwishlist:item=2097055732,839105230,1561002382,1428297954,1546637391
+dimwishlist:item=2097055732,839105230,679225683,1428297954,1546637391
+dimwishlist:item=2097055732,839105230,3230963543,1428297954,1546637391
+
+dimwishlist:item=2097055732,839105230,1885400500,3643424744,1546637391
+dimwishlist:item=2097055732,839105230,1561002382,3643424744,1546637391
+dimwishlist:item=2097055732,839105230,679225683,3643424744,1546637391
+dimwishlist:item=2097055732,839105230,3230963543,3643424744,1546637391
+
+dimwishlist:item=2097055732,839105230,1885400500,671806388,1546637391
+dimwishlist:item=2097055732,839105230,1561002382,671806388,1546637391
+dimwishlist:item=2097055732,839105230,679225683,671806388,1546637391
+dimwishlist:item=2097055732,839105230,3230963543,671806388,1546637391
+
+
 // Exotics
 
 // Outbreak Perfected
@@ -933,62 +1034,3 @@ dimwishlist:item=54&perks=938542991,3913600130 // tempered edge, whirlwind blade
 dimwishlist:item=54&perks=938542991,2349202967 // tempered edge, heavy guard
 dimwishlist:item=54&perks=938542991 // tempered edge
 dimwishlist:item=54&perks=1749209109,3913600130 // relentless strike, whirlwind blade
-
-// Deep Stone Crypt
-// -----------------------------------------------------------------------------
-
-// Opening the Crypt
-// -----------------------------------------------------------------------------
-// This is really a precursor to the main encounters. You will see mostly void
-// shields, so something that can strip the shields is helpful. There really
-// isn't a requirement here as long as you can clear ads, which include Vandals,
-// Captains and even Brigs.
-
-// Encounter 1: Crypt Security
-// -----------------------------------------------------------------------------
-
-
-// Encounter 2: Atraks-1
-// -----------------------------------------------------------------------------
-
-
-// Space Walk
-// -----------------------------------------------------------------------------
-
-
-// Encounter 3: Taniks Part 1
-
-// Garden of Salvation
-// -----------------------------------------------------------------------------
-
-// Encounter 1: Evade the Consecrated Mind
-// -----------------------------------------------------------------------------
-// This encounter is very flexible in your choice of weapons. There are a lot of
-// void shields, so best to take something that can rip through those shields as
-// quickly as possible. Also, for the current season, anything with Anti-Barrier
-// rounds will help with the hobgoblins.
-
-
-
-// Encounter 2: Summon the Consecrated Mind
-// -----------------------------------------------------------------------------
-// The key here is quickly killing your ads, so something for quick.
-
-
-
-// Encounter 3: Defeat the Consecrated Mind
-// -----------------------------------------------------------------------------
-
-// Izanagi's Burden (with completed catalyst)
-dimwishlist:item=3211806999&perks=1070100196,3661387068,3142289711,1168162263,3465198467
-
-
-
-// Encounter 4: Defeat the Sanctified Mind
-// -----------------------------------------------------------------------------
-
-// Izanagi's Burden (with completed catalyst)
-dimwishlist:item=3211806999&perks=1070100196,3661387068,3142289711,1168162263,3465198467
-
-// Last Wish
-// -----------------------------------------------------------------------------
