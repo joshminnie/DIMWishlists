@@ -12,5 +12,5 @@ gem 'redcarpet', '~> 3.5.1', require: false
 gem 'yard', '~> 0.9.0', require: false
 
 # Code linting
-gem 'reek', '~> 6.0.2', require: false
-gem 'rubocop', '~> 1.9', require: false
+gem 'reek', '~> 6.1.1', require: false
+gem 'rubocop', '~> 1.29', require: false
