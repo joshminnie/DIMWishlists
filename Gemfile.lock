@@ -45,7 +45,7 @@ DEPENDENCIES
   rb-readline
   redcarpet (~> 3.6.0)
   reek (~> 6.1.1)
-  rubocop (~> 1.29)
+  rubocop (~> 1.48.1)
   yard (~> 0.9.0)
 
 RUBY VERSION
