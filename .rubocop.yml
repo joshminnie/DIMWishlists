@@ -14,6 +14,9 @@ AllCops:
 Layout/LineLength:
   Max: 131
 
+Style/HashSyntax:
+  EnforcedShorthandSyntax: never
+
 Style/StringLiterals:
   EnforcedStyle: double_quotes
 
