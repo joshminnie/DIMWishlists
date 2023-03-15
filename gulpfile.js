@@ -9,5 +9,5 @@ function build(done) {
   done();
 }
 
-exports.default = build
+exports.default = build;
 exports.build = build;

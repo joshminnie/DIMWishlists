@@ -1,9 +1,6 @@
 // Fusion Rifles
 // -----------------------------------------------------------------------------
 
-// Loaded Question (static roll)
-dimwishlist:item=580961571&perks=1019291327,2405638015,1483536627,3300816228,1427256713
-
 // General
 dimwishlist:item=9&perks=2969185026,1645158859,2213355989 // projection fuse, under pressure, high impact reserves
 dimwishlist:item=9&perks=2969185026,1645158859,1600092898 // projection fuse, under pressure, backup plan
