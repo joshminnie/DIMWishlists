@@ -1,13 +1,5 @@
-const { src, dest, series } = require('gulp');
-
-var concat = require('gulp-concat');
-var del = require('del');
-
-function clean(done) {
-  del('wishlist.txt');
-
-  done();
-}
+const { src, dest } = require('gulp');
+const concat = require('gulp-concat');
 
 function build(done) {
   src('./wishlists/**/*.txt')
@@ -17,6 +9,5 @@ function build(done) {
   done();
 }
 
-exports.default = series(clean, build);
-exports.clean = clean;
+exports.default = build
 exports.build = build;
