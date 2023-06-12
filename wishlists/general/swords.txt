@@ -7,3 +7,6 @@ dimwishlist:item=54&perks=436053704,2349202967,3913600130 // hungry edge, heavy 
 
 // Razor's edge
 dimwishlist:item=1796949035&perks=2827049491,52780822,1749209109,2396489472
+
+// THIN PRECIPICE
+dimwishlist:item=4066778670&perks=436053704,52780822,1646437399,598607952
