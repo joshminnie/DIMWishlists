@@ -1,25 +1,23 @@
 // Pulse Rifles
 // -----------------------------------------------------------------------------
 
-// Legendary
-
 dimwishlist:item=7&perks=1168162263,1015611457 // outlaw, kill clip
 dimwishlist:item=7&perks=3142289711,1168162263,1015611457 // accurized rounds, outlaw, kill clip
 dimwishlist:item=7&perks=1561002382,1168162263,1015611457 // high caliber rounds, outlaw, kill clip
 dimwishlist:item=7&perks=1885400500,1168162263,1015611457 // ricochet rounds, outlaw, kill clip
 dimwishlist:item=7&perks=679225683,1168162263,1015611457 // light mag, outlaw, kill clip
 
-// Sacred Provenance
+// SACRED PROVENANCE
 dimwislist:item=2408405461&perks=247725512,1015611457 // rapid hit, kill clip
 dimwislist:item=2408405461&perks=1168162263,1015611457 // outlaw, kill clip
 
-// Last Perdition
+// LAST PERDITION
 dimwishlist:item=188882152&perks=3142289711,1168162263,1015611457#notes:TruePico PvP/Controller
 dimwishlist:item=188882152&perks=3151536500,3142289711,1168162263,1015611457#notes:TruePico PvP/Controller
 dimwishlist:item=188882152&perks=3151536501,3142289711,1168162263,1015611457#notes:TruePico PvP/Controller
 dimwishlist:item=188882152&perks=3151536503,3142289711,1168162263,1015611457#notes:TruePico PvP/Controller
 
-// Syncopation-53
+// SYNCOPATION-53
 dimwishlist:item=2856514843&perks=1885400500,1546637391
 dimwishlist:item=2856514843&perks=1885400500,460017080
 dimwishlist:item=2856514843&perks=1885400500,4104185692
@@ -31,7 +29,7 @@ dimwishlist:item=2856514843&perks=1561002382,4104185692
 dimwishlist:item=2856514843&perks=1561002382,124408337
 dimwishlist:item=2856514843&perks=1561002382,2846385770
 
-// Piece of Mind
+// PIECE OF MIND
 dimwishlist:item=2097055732&perks=1885400500,1570042021,11612903
 dimwishlist:item=2097055732&perks=1561002382,1570042021,11612903
 dimwishlist:item=2097055732&perks=679225683,1570042021,11612903
@@ -73,11 +71,10 @@ dimwishlist:item=2097055732&perks=1561002382,671806388,1546637391
 dimwishlist:item=2097055732&perks=679225683,671806388,1546637391
 dimwishlist:item=2097055732&perks=3230963543,671806388,1546637391
 
-// Smite of Merain
+// SMITE OF MERAIN
 dimwishlist:item=2221264583&perks=839105230,3142289711,1906147653,1183436451
 dimwishlist:item=2221264583&perks=839105230,3142289711,3523296417,3824105627
 
 // Exotics
 
-// Outbreak Perfected
-dimwishlist:item=400096939
+dimwishlist:item=400096939 // Outbreak Perfected

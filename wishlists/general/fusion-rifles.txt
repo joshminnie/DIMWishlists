@@ -1,13 +1,12 @@
 // Fusion Rifles
 // -----------------------------------------------------------------------------
 
-// General
 dimwishlist:item=9&perks=2969185026,1645158859,2213355989 // projection fuse, under pressure, high impact reserves
 dimwishlist:item=9&perks=2969185026,1645158859,1600092898 // projection fuse, under pressure, backup plan
 dimwishlist:item=9&perks=2969185026,1645158859,1890422124 // projection fuse, under pressure, tap the trigger
 dimwishlist:item=9&perks=2969185026,1645158859,2846385770 // projection fuse, under pressure, rangefinder
 
-// Erentil FR4
+// ERENTIL FR4
 dimwishlist:item=3027844941&perks=1628165636,2969185026,1645158859,2213355989 // torch hs3, projection fuse, under pressure, high impact reserves
 dimwishlist:item=3027844941&perks=1628165636,2969185026,1645158859,1600092898 // torch hs3, projection fuse, under pressure, backup plan
 dimwishlist:item=3027844941&perks=1628165636,2969185026,1645158859,1890422124 // torch hs3, projection fuse, under pressure, tap the trigger
@@ -25,7 +24,7 @@ dimwishlist:item=3027844941&perks=194952922,2969185026,280464955,1600092898  // 
 dimwishlist:item=3027844941&perks=194952922,2969185026,280464955,1890422124  // impulse ms3, projection fuse, firmly planted, tap the trigger
 dimwishlist:item=3027844941&perks=194952922,2969185026,280464955,2846385770  // impulse ms3, projection fuse, firmly planted, rangefinder
 
-// Main Ingredient
+// MAIN INGREDIENT
 dimwishlist:item=253196586&perks=2405638014,2969185026,1645158859,2213355989 // red dot micro, projection fuse, under pressure, high impact reserves
 dimwishlist:item=253196586&perks=2405638014,2969185026,1645158859,1600092898 // red dot micro, projection fuse, under pressure, backup plan
 dimwishlist:item=253196586&perks=2405638014,2969185026,1645158859,1890422124 // red dot micro, projection fuse, under pressure, tap the trigger
@@ -43,7 +42,7 @@ dimwishlist:item=253196586&perks=13792279,2969185026,280464955,2213355989 // cle
 dimwishlist:item=253196586&perks=13792279,2969185026,280464955,2213355989 // cleanshot IS, projection fuse, firmly planted, tap the trigger
 dimwishlist:item=253196586&perks=13792279,2969185026,280464955,2213355989 // cleanshot IS, projection fuse, firmly planted, rangefinder
 
-// Likely Suspect
+// LIKELY SUSPECT
 dimwishlist:item=1994645182&perks=839105230,689005463,1570042021,3592538738
 dimwishlist:item=1994645182&perks=839105230,689005463,1570042021,2652708987
 dimwishlist:item=1994645182&perks=839105230,689005463,1570042021,2610012052

@@ -1,12 +1,12 @@
 // Sidearms
 // -----------------------------------------------------------------------------
 
-// Lonesome
+// LONESOME
 //notes:TruePico: Recommended MW: Range or Stability
 dimwishlist:item=2199171672&perks=3250034553,1885400500,247725512
 dimwishlist:item=2199171672&perks=3250034553,1885400500,247725512,4082225868
 
-// Brass Attacks
+// BRASS ATTACKS
 dimwishlist:item=2121785039&perks=3661387068,1431678320,2779035018,4104185692
 dimwishlist:item=2121785039&perks=3661387068,1431678320,2779035018,3425386926
 dimwishlist:item=2121785039&perks=3661387068,1431678320,2779035018,3592538738

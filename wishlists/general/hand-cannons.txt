@@ -4,25 +4,25 @@
 dimwishlist:item=6&perks=3142289711,2846385770 // accurized rounds, rangefinder
 dimwishlist:item=6&perks=3142289711 // accurized rounds
 
-// Midnight Coup (static roll)
+// MIDNIGHT COUP
 dimwishlist:item=1128225405
 
-// Better Devils (Maximum range and stability)
+// BETTER DEVILS
 dimwishlist:item=153979397&perks=1926090091,3142289711,2846385770 // sureshot hcs, accurized rounds, rangefinder
 dimwishlist:item=153979397&perks=1926090091,3142289711 // sureshot hcs, accurized rounds
 dimwishlist:item=153979397&perks=1926090092,3142289711,2846385770 // true sight hcs, accurized rounds, rangefinder
 dimwishlist:item=153979397&perks=1926090092,3142289711 // true sight hcs, accurized rounds
 
-// Service Revolver (Maximum range and stability)
+// SERVICE REVOLVER
 dimwishlist:item=834081972&perks=1926090091,3142289711,2846385770 // sureshot hcs, accurized rounds, rangefinder
 dimwishlist:item=834081972&perks=1926090091,3142289711 // sureshot hcs, accurized rounds
 dimwishlist:item=834081972&perks=1926090092,3142289711,2846385770 // true sight hcs, accurized rounds, rangefinder
 dimwishlist:item=834081972&perks=1926090092,3142289711 // true sight hcs, accurized rounds
 
-// Austringer
+// AUSTRINGER
 dimwishlist:item=3055790362&perks=3250034553,1885400500,4116820839,509594246
 
-// The Old Fashioned
+// THE OLD FASHIONED
 dimwishlist:item=3569802112&perks=1926090091,3142289711,3161816588,1015611457 // sureshot hcs, accurized rounds, slideshot, kill clip
 dimwishlist:item=3569802112&perks=1926090091,3142289711,3161816588,957782887 // sureshot hcs, accurized rounds, slideshot, snapshot sights
 dimwishlist:item=3569802112&perks=1926090091,3142289711,3161816588,3038247973 // sureshot hcs, accurized rounds, slideshot, explosive payload
@@ -33,7 +33,7 @@ dimwishlist:item=3569802112&perks=1926090091,3142289711,2779035018,1015611457 //
 dimwishlist:item=3569802112&perks=1926090091,3142289711,2779035018,957782887 // sureshot hcs, accurized rounds, feeding frenzy, snapshot sights
 dimwishlist:item=3569802112&perks=1926090091,3142289711,2779035018,3038247973 // sureshot hcs, accurized rounds, feeding frenzy, explosive payload
 
-// Jack Queen King 3
+// JACK QUEEN KING 3
 dimwishlist:item=410996590&perks=1926090091,1885400500,3300816228,957782887  // sureshot hcs, ricochet rounds, auto-loading holster, snapshot sights
 dimwishlist:item=410996590&perks=1926090091,1885400500,3300816228,3425386926  // sureshot hcs, ricochet rounds, auto-loading holster, rampage
 dimwishlist:item=410996590&perks=1926090091,1885400500,3300816228,2848615171  // sureshot hcs, ricochet rounds, auto-loading holster, dragonfly
@@ -95,7 +95,7 @@ dimwishlist:item=410996590&perks=1926090091,1561002382,1820235745,2848615171  //
 dimwishlist:item=410996590&perks=1926090091,1561002382,1820235745,3708227201  // sureshot hcs, high-caliber rounds, subsistence, surrounded
 dimwishlist:item=410996590&perks=1926090091,1561002382,1820235745,4082225868  // sureshot hcs, high-caliber rounds, subsistence, swashbuckler
 
-// Bottom Dollar
+// BOTTOM DOLLAR
 dimwishlist:item=1046651176&perks=4090651448,3142289711,2846385770,3425386926
 dimwishlist:item=1046651176&perks=4090651448,3142289711,2846385770,3038247973
 dimwishlist:item=1046651176&perks=4090651448,3142289711,2846385770,47981717

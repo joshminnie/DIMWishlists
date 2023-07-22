@@ -4,14 +4,14 @@
 // Bows
 // -----------------------------------------------------------------------------
 
-// Accrued Redemption
+// ACCRUED REDEMPTION
 dimwishlist:item=4095896073&perks=201365942,247725512 // rapid hit, archer's tempo
 
-// Arsenic Bite-4b
+// ARSENIC BITE-4B
 dimwishlist:item=720351795&perks=852209214,2848615171,3365897133 // polymer string, dragonfly, explosive head
 dimwishlist:item=720351795&perks=852209214,3425386926,3365897133 // polymer string, rampage, explosive head
 
-// Imperial Needle
+// IMPERIAL NEEDLE
 dimwishlist:item=3460122497&perks=3768438372,2154191829,951095735,4104185692
 dimwishlist:item=3460122497&perks=3768438372,2154191829,951095735,3592538738
 dimwishlist:item=3460122497&perks=3768438372,2154191829,951095735,4082225868
@@ -49,7 +49,7 @@ dimwishlist:item=3460122497&perks=1196733167,3429800428,2450788523,4104185692
 dimwishlist:item=3460122497&perks=1196733167,3429800428,2450788523,3592538738
 dimwishlist:item=3460122497&perks=1196733167,3429800428,2450788523,4082225868
 
-// Under Your Skin
+// UNDER YOUR SKIN
 dimwishlist:item=232928045&perks=33768438372,16392701,201365942,3365897133
 dimwishlist:item=232928045&perks=3768438372,16392701,201365942,2848615171
 dimwishlist:item=232928045&perks=3768438372,16392701,201365942
@@ -59,13 +59,12 @@ dimwishlist:item=232928045&perks=3768438372,16392701,1428297954
 // Fusion Rifles
 // -----------------------------------------------------------------------------
 
-// General
 dimwishlist:item=9&perks=2969185026,1645158859,2213355989 // projection fuse, under pressure, high impact reserves
 dimwishlist:item=9&perks=2969185026,1645158859,1600092898 // projection fuse, under pressure, backup plan
 dimwishlist:item=9&perks=2969185026,1645158859,1890422124 // projection fuse, under pressure, tap the trigger
 dimwishlist:item=9&perks=2969185026,1645158859,2846385770 // projection fuse, under pressure, rangefinder
 
-// Erentil FR4
+// ERENTIL FR4
 dimwishlist:item=3027844941&perks=1628165636,2969185026,1645158859,2213355989 // torch hs3, projection fuse, under pressure, high impact reserves
 dimwishlist:item=3027844941&perks=1628165636,2969185026,1645158859,1600092898 // torch hs3, projection fuse, under pressure, backup plan
 dimwishlist:item=3027844941&perks=1628165636,2969185026,1645158859,1890422124 // torch hs3, projection fuse, under pressure, tap the trigger
@@ -83,7 +82,7 @@ dimwishlist:item=3027844941&perks=194952922,2969185026,280464955,1600092898  // 
 dimwishlist:item=3027844941&perks=194952922,2969185026,280464955,1890422124  // impulse ms3, projection fuse, firmly planted, tap the trigger
 dimwishlist:item=3027844941&perks=194952922,2969185026,280464955,2846385770  // impulse ms3, projection fuse, firmly planted, rangefinder
 
-// Main Ingredient
+// MAIN INGREDIENT
 dimwishlist:item=253196586&perks=2405638014,2969185026,1645158859,2213355989 // red dot micro, projection fuse, under pressure, high impact reserves
 dimwishlist:item=253196586&perks=2405638014,2969185026,1645158859,1600092898 // red dot micro, projection fuse, under pressure, backup plan
 dimwishlist:item=253196586&perks=2405638014,2969185026,1645158859,1890422124 // red dot micro, projection fuse, under pressure, tap the trigger
@@ -101,7 +100,7 @@ dimwishlist:item=253196586&perks=13792279,2969185026,280464955,2213355989 // cle
 dimwishlist:item=253196586&perks=13792279,2969185026,280464955,2213355989 // cleanshot IS, projection fuse, firmly planted, tap the trigger
 dimwishlist:item=253196586&perks=13792279,2969185026,280464955,2213355989 // cleanshot IS, projection fuse, firmly planted, rangefinder
 
-// Likely Suspect
+// LIKELY SUSPECT
 dimwishlist:item=1994645182&perks=839105230,689005463,1570042021,3592538738
 dimwishlist:item=1994645182&perks=839105230,689005463,1570042021,2652708987
 dimwishlist:item=1994645182&perks=839105230,689005463,1570042021,2610012052
@@ -127,17 +126,21 @@ dimwishlist:item=417164956 // Jotünn
 // Glaives
 // -----------------------------------------------------------------------------
 
+// JUDGMENT OF KELGORATH
+dimwishlist:item=2978226043&perks=1263609309,1431678320,3523296417,4293542123,192157151
+dimwishlist:item=2978226043&perks=1263609309,1431678320,1906147653,2675184851,192157151
+
 // Grenade Launchers (Energy)
 // -----------------------------------------------------------------------------
 
-// The Mountaintop (static roll)
+// THE MOUNTAINTOP
 dimwishlist:item=3993415705
 
 // Martyr's Retribution
 dimwishlist:item=3850168899&perks=3300816228,3523296417 // auto-loading holster, demolitionist
 dimwishlist:item=3850168899&perks=2869569095,3523296417 // field prep, demolitionist
 
-// Ignition Code (Season 14)
+// IGNITION CODE
 dimwishlist:item=304659313&perks=3525010810,3301904089,2010801679,1546637391
 dimwishlist:item=304659313&perks=3525010810,3301904089,3161816588,1546637391
 dimwishlist:item=304659313&perks=3525010810,409831596,2010801679,1546637391
@@ -180,25 +183,25 @@ dimwishlist:item=153950757&perks=2353477480,981914802,3301904089 // hard launch,
 dimwishlist:item=6&perks=3142289711,2846385770 // accurized rounds, rangefinder
 dimwishlist:item=6&perks=3142289711 // accurized rounds
 
-// Midnight Coup (static roll)
+// MIDNIGHT COUP
 dimwishlist:item=1128225405
 
-// Better Devils (Maximum range and stability)
+// BETTER DEVILS
 dimwishlist:item=153979397&perks=1926090091,3142289711,2846385770 // sureshot hcs, accurized rounds, rangefinder
 dimwishlist:item=153979397&perks=1926090091,3142289711 // sureshot hcs, accurized rounds
 dimwishlist:item=153979397&perks=1926090092,3142289711,2846385770 // true sight hcs, accurized rounds, rangefinder
 dimwishlist:item=153979397&perks=1926090092,3142289711 // true sight hcs, accurized rounds
 
-// Service Revolver (Maximum range and stability)
+// SERVICE REVOLVER
 dimwishlist:item=834081972&perks=1926090091,3142289711,2846385770 // sureshot hcs, accurized rounds, rangefinder
 dimwishlist:item=834081972&perks=1926090091,3142289711 // sureshot hcs, accurized rounds
 dimwishlist:item=834081972&perks=1926090092,3142289711,2846385770 // true sight hcs, accurized rounds, rangefinder
 dimwishlist:item=834081972&perks=1926090092,3142289711 // true sight hcs, accurized rounds
 
-// Austringer
+// AUSTRINGER
 dimwishlist:item=3055790362&perks=3250034553,1885400500,4116820839,509594246
 
-// The Old Fashioned
+// THE OLD FASHIONED
 dimwishlist:item=3569802112&perks=1926090091,3142289711,3161816588,1015611457 // sureshot hcs, accurized rounds, slideshot, kill clip
 dimwishlist:item=3569802112&perks=1926090091,3142289711,3161816588,957782887 // sureshot hcs, accurized rounds, slideshot, snapshot sights
 dimwishlist:item=3569802112&perks=1926090091,3142289711,3161816588,3038247973 // sureshot hcs, accurized rounds, slideshot, explosive payload
@@ -209,7 +212,7 @@ dimwishlist:item=3569802112&perks=1926090091,3142289711,2779035018,1015611457 //
 dimwishlist:item=3569802112&perks=1926090091,3142289711,2779035018,957782887 // sureshot hcs, accurized rounds, feeding frenzy, snapshot sights
 dimwishlist:item=3569802112&perks=1926090091,3142289711,2779035018,3038247973 // sureshot hcs, accurized rounds, feeding frenzy, explosive payload
 
-// Jack Queen King 3
+// JACK QUEEN KING 3
 dimwishlist:item=410996590&perks=1926090091,1885400500,3300816228,957782887  // sureshot hcs, ricochet rounds, auto-loading holster, snapshot sights
 dimwishlist:item=410996590&perks=1926090091,1885400500,3300816228,3425386926  // sureshot hcs, ricochet rounds, auto-loading holster, rampage
 dimwishlist:item=410996590&perks=1926090091,1885400500,3300816228,2848615171  // sureshot hcs, ricochet rounds, auto-loading holster, dragonfly
@@ -271,7 +274,7 @@ dimwishlist:item=410996590&perks=1926090091,1561002382,1820235745,2848615171  //
 dimwishlist:item=410996590&perks=1926090091,1561002382,1820235745,3708227201  // sureshot hcs, high-caliber rounds, subsistence, surrounded
 dimwishlist:item=410996590&perks=1926090091,1561002382,1820235745,4082225868  // sureshot hcs, high-caliber rounds, subsistence, swashbuckler
 
-// Bottom Dollar
+// BOTTOM DOLLAR
 dimwishlist:item=1046651176&perks=4090651448,3142289711,2846385770,3425386926
 dimwishlist:item=1046651176&perks=4090651448,3142289711,2846385770,3038247973
 dimwishlist:item=1046651176&perks=4090651448,3142289711,2846385770,47981717
@@ -405,11 +408,11 @@ dimwishlist:item=-2112909415 // Ten Paces
 // Linear Fusion Rifles
 // -----------------------------------------------------------------------------
 
-// Line in the Sand
-dimwishlist:item=946443267&perks=202670084,1687452232,247725512,1771339417 // full bore, liquid coils, rapid hit, firing line
-dimwishlist:item=946443267&perks=3250034553,1687452232,247725512,1771339417 // hammer-forged rifling, liquid coils, rapid hit, firing line
+// LINE IN THE SAND
+dimwishlist:item=946443267&perks=202670084,1687452232,247725512,1771339417
+dimwishlist:item=946443267&perks=3250034553,1687452232,247725512,1771339417
 
-// Threaded Needle
+// THREADED NEEDLE
 dimwishlist:item=3075224551&perks=1840239774,1687452232,2284787283,2848615171#notes:TruePico - This is the recommended roll, with a stability or range masterwork.
 dimwishlist:item=3075224551&perks=1840239774,1687452232,2284787283,1546637391
 dimwishlist:item=3075224551&perks=1840239774,1687452232,2284787283,2726471870
@@ -426,18 +429,16 @@ dimwishlist:item=3075224551&perks=1840239774,1687452232,2869569095,3523296417
 // Machine Guns
 // -----------------------------------------------------------------------------
 
-// Hammerhead
+// HAMMERHEAD
 dimwishlist:item=603242241&perks=3250034553,1561002382,2779035018 // hammer-forged rifling, high caliber rounds, feeding frenzy
 dimwishlist:item=603242241&perks=3250034553,1561002382,2779035018,2213355989 // hammer-forged rifling, high caliber rounds, feeding frenzy, high-impact reserves
 
-// Retrofit Escapade
+// RETROFIT ESCAPADE
 dimwishlist:item=3103325054&perks=839105230,3142289711,848860060,2939589096,192157151
 dimwishlist:item=3103325054&perks=839105230,3142289711,1354429876,365154968,192157151
 
 // Pulse Rifles
 // -----------------------------------------------------------------------------
-
-// Legendary
 
 dimwishlist:item=7&perks=1168162263,1015611457 // outlaw, kill clip
 dimwishlist:item=7&perks=3142289711,1168162263,1015611457 // accurized rounds, outlaw, kill clip
@@ -445,17 +446,17 @@ dimwishlist:item=7&perks=1561002382,1168162263,1015611457 // high caliber rounds
 dimwishlist:item=7&perks=1885400500,1168162263,1015611457 // ricochet rounds, outlaw, kill clip
 dimwishlist:item=7&perks=679225683,1168162263,1015611457 // light mag, outlaw, kill clip
 
-// Sacred Provenance
+// SACRED PROVENANCE
 dimwislist:item=2408405461&perks=247725512,1015611457 // rapid hit, kill clip
 dimwislist:item=2408405461&perks=1168162263,1015611457 // outlaw, kill clip
 
-// Last Perdition
+// LAST PERDITION
 dimwishlist:item=188882152&perks=3142289711,1168162263,1015611457#notes:TruePico PvP/Controller
 dimwishlist:item=188882152&perks=3151536500,3142289711,1168162263,1015611457#notes:TruePico PvP/Controller
 dimwishlist:item=188882152&perks=3151536501,3142289711,1168162263,1015611457#notes:TruePico PvP/Controller
 dimwishlist:item=188882152&perks=3151536503,3142289711,1168162263,1015611457#notes:TruePico PvP/Controller
 
-// Syncopation-53
+// SYNCOPATION-53
 dimwishlist:item=2856514843&perks=1885400500,1546637391
 dimwishlist:item=2856514843&perks=1885400500,460017080
 dimwishlist:item=2856514843&perks=1885400500,4104185692
@@ -467,7 +468,7 @@ dimwishlist:item=2856514843&perks=1561002382,4104185692
 dimwishlist:item=2856514843&perks=1561002382,124408337
 dimwishlist:item=2856514843&perks=1561002382,2846385770
 
-// Piece of Mind
+// PIECE OF MIND
 dimwishlist:item=2097055732&perks=1885400500,1570042021,11612903
 dimwishlist:item=2097055732&perks=1561002382,1570042021,11612903
 dimwishlist:item=2097055732&perks=679225683,1570042021,11612903
@@ -509,19 +510,18 @@ dimwishlist:item=2097055732&perks=1561002382,671806388,1546637391
 dimwishlist:item=2097055732&perks=679225683,671806388,1546637391
 dimwishlist:item=2097055732&perks=3230963543,671806388,1546637391
 
-// Smite of Merain
+// SMITE OF MERAIN
 dimwishlist:item=2221264583&perks=839105230,3142289711,1906147653,1183436451
 dimwishlist:item=2221264583&perks=839105230,3142289711,3523296417,3824105627
 
 // Exotics
 
-// Outbreak Perfected
-dimwishlist:item=400096939
+dimwishlist:item=400096939 // Outbreak Perfected
 
 // Rocket Launchers
 // -----------------------------------------------------------------------------
 
-// Palmyra-B
+// PALMYRA-B
 dimwishlist:item=3489657138,1478423395,2985827016,3300816228,3194351027
 dimwishlist:item=3489657138,1478423395,2985827016,3300816228,11612903
 dimwishlist:item=3489657138,1478423395,2985827016,3300816228,2396489472
@@ -534,14 +534,17 @@ dimwishlist:item=3489657138,1478423395,3796465595,3300816228,2396489472
 
 // Legendary
 
-// Nameless Midnight
+// NAMELESS MIDNIGHT
 dimwishlist:item=996109059&perks=839105230,3142289711,2387244414,3038247973
 
-// Night Watch
+// NIGHT WATCH
 dimwishlist:item=3504336176&perks=4090651448,3142289711,247725512,3038247973
 
-// Tears of Contrition
+// TEARS OF CONTRITION
 dimwishlist:item=1366394399&perks=839105230,3142289711,573122728,64866129
+
+// RANDY'S THROWING KNIFE
+dimwishlist:item=3292795429&perks=839105230,1885400500,1428297954,1015611457
 
 // Exotics
 
@@ -552,25 +555,25 @@ dimwishlist:item=1331482397 // MIDA Multi-Tool
 // Shotguns
 // -----------------------------------------------------------------------------
 
-// Dust Rock Blues
+// DUST ROCK BLUES
 dimwishlist:item=636912560&perks=466087222,3142289711 // rifled barrel, accurized rounds
 
-// Hawthorne's Field-Forged Shotgun
+// HAWTHORNE'S FIELD-FORGED SHOTGUN
 dimwishlist:item=1807343361&perks=3142289711,1631667848,2679249093 // accurized rounds, grave robber, one-two punch
 
-// Perfect Paradox
+// PERFECT PARADOX
 dimwishlist:item=3393519051&perks=1047830412,3230963543,3523296417,2360754333 // full choke, flared magwell, demolitionist, trench barrel
 dimwishlist:item=3393519051&perks=1047830412,3230963543,2869569095,2360754333 // full choke, flared magwell, field prep, trench barrel
 
 // Sidearms
 // -----------------------------------------------------------------------------
 
-// Lonesome
+// LONESOME
 //notes:TruePico: Recommended MW: Range or Stability
 dimwishlist:item=2199171672&perks=3250034553,1885400500,247725512
 dimwishlist:item=2199171672&perks=3250034553,1885400500,247725512,4082225868
 
-// Brass Attacks
+// BRASS ATTACKS
 dimwishlist:item=2121785039&perks=3661387068,1431678320,2779035018,4104185692
 dimwishlist:item=2121785039&perks=3661387068,1431678320,2779035018,3425386926
 dimwishlist:item=2121785039&perks=3661387068,1431678320,2779035018,3592538738
@@ -710,8 +713,6 @@ dimwishlist:item=2121785039&perks=4090651448,1561002382,2450788523,3350417888
 // Sniper Rifles
 // -----------------------------------------------------------------------------
 
-// Generic Sniper Rolls
-
 // Adaptive Frame Sniper Rifles
 dimwishlist:item=10&perks=1294026524,1771339417 // firing line
 dimwishlist:item=10&perks=1294026524,1885400500,1771339417 // firing line, ricochet rounds
@@ -720,7 +721,7 @@ dimwishlist:item=10&perks=1294026524,1354429876,1771339417 // firing line, fourt
 dimwishlist:item=10&perks=1294026524,2869569095,1771339417 // firing line, field prep
 dimwishlist:item=10&perks=1294026524,247725512,1771339417 // firing line, rapid hit
 
-// Shepherd's Watch (Adaptive Frame)
+// SHEPHERD'S WATCH
 dimwishlist:item=3743729616&perks=1482024992,106909392,588594999,957782887#notes:TruePico: #pvp
 dimwishlist:item=3743729616&perks=1482024992,106909392,588594999,47981717#notes:TruePico: #pvp
 dimwishlist:item=3743729616&perks=4090651448,106909392,588594999,957782887#notes:TruePico: #pvp
@@ -743,7 +744,7 @@ dimwishlist:item=3743729616&perks=1840239774,106909392,588594999,957782887#notes
 dimwishlist:item=10&perks=3468089894,202670084,3142289711,3400784728,1546637391 // full bore, accurized rounds, triple tap, vorpal weapon
 dimwishlist:item=10&perks=3468089894,3250034553,3142289711,3400784728,1546637391 // hammer-forged rifling, accurized rounds, triple tap, vorpal weapon
 
-// Succession
+// SUCCESSION
 //notes:TruePico: This is a great sniper for working on champions in grand master nightfalls. Recommended MW: Handling or Stability
 dimwishlist:item=2990047042&perks=1523832109,1546637391#notes:TruePico: Champion-buster god roll #pve #champions
 dimwishlist:item=2990047042&perks=4090651448,106909392,1523832109,1546637391#notes:TruePico: Champion-buster god roll #pve #champions
@@ -759,10 +760,10 @@ dimwishlist:item=1891561814 // Whisper of the Worm
 // Submachine Guns
 // -----------------------------------------------------------------------------
 
-// The Recluse (static roll)
-dimwishlist:item=3354242550&perks=1458010786,1392496348,1885400500,2779035018,3081867624
+// THE RECLUSE
+dimwishlist:item=3354242550
 
-// Extraordinary Rendition
+// EXTRAORDINARY RENDITION
 //notes:TruePico: "This feels a lot like Recluse reworked. Frenzy and Overflow make a really good combination on this gun." Recommended MW: Reload or Stability
 dimwishlist:item=1097616550&perks=4090651448,106909392,3643424744,4104185692#notes:TruePico "This is my god roll"
 dimwishlist:item=1097616550&perks=4090651448,3142289711,3643424744,3425386926
@@ -813,13 +814,13 @@ dimwishlist:item=1097616550&perks=839105230,106909392,3436462433,4104185692
 dimwishlist:item=1097616550&perks=839105230,106909392,2387244414,3425386926
 dimwishlist:item=1097616550&perks=839105230,106909392,2387244414,4104185692
 
-// Forensice Nightmare
+// FORENSIC NIGHTMARE
 dimwishlist:item=1526296434&perks=1482024992,1885400500,1428297954,1015611457
 dimwishlist:item=1526296434&perks=1840239774,1885400500,1428297954,1015611457
 dimwishlist:item=1526296434&perks=1482024992,1885400500,1570042021,1015611457
 dimwishlist:item=1526296434&perks=1840239774,1885400500,1570042021,1015611457
 
-// Funnelweb
+// FUNNELWEB
 dimwishlist:item=3341893443&perks=839105230,3230963543,1820235745,11612903
 dimwishlist:item=3341893443&perks=1840239774,3230963543,1820235745,11612903
 dimwishlist:item=3341893443&perks=1482024992,3230963543,1820235745,11612903
@@ -858,7 +859,7 @@ dimwishlist:item=54&perks=436053704,2349202967,1749209109,3913600130 // hungry e
 dimwishlist:item=54&perks=436053704,2349202967,1749209109 // hungry edge, heavy guard, relentless strike
 dimwishlist:item=54&perks=436053704,2349202967,3913600130 // hungry edge, heavy guard, whirlwind blade
 
-// Razor's edge
+// RAZOR'S EDGE
 dimwishlist:item=1796949035&perks=2827049491,52780822,1749209109,2396489472
 
 // THIN PRECIPICE

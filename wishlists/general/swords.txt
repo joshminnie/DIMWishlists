@@ -5,7 +5,7 @@ dimwishlist:item=54&perks=436053704,2349202967,1749209109,3913600130 // hungry e
 dimwishlist:item=54&perks=436053704,2349202967,1749209109 // hungry edge, heavy guard, relentless strike
 dimwishlist:item=54&perks=436053704,2349202967,3913600130 // hungry edge, heavy guard, whirlwind blade
 
-// Razor's edge
+// RAZOR'S EDGE
 dimwishlist:item=1796949035&perks=2827049491,52780822,1749209109,2396489472
 
 // THIN PRECIPICE
