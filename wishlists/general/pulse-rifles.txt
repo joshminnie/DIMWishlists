@@ -12,10 +12,10 @@ dimwislist:item=2408405461&perks=247725512,1015611457 // rapid hit, kill clip
 dimwislist:item=2408405461&perks=1168162263,1015611457 // outlaw, kill clip
 
 // LAST PERDITION
-dimwishlist:item=188882152&perks=3142289711,1168162263,1015611457#notes:TruePico PvP/Controller
-dimwishlist:item=188882152&perks=3151536500,3142289711,1168162263,1015611457#notes:TruePico PvP/Controller
-dimwishlist:item=188882152&perks=3151536501,3142289711,1168162263,1015611457#notes:TruePico PvP/Controller
-dimwishlist:item=188882152&perks=3151536503,3142289711,1168162263,1015611457#notes:TruePico PvP/Controller
+dimwishlist:item=188882152&perks=3142289711,1168162263,1015611457#notes:TruePico ⭐️ PvP/Controller
+dimwishlist:item=188882152&perks=3151536500,3142289711,1168162263,1015611457#notes:TruePico ⭐️ PvP/Controller
+dimwishlist:item=188882152&perks=3151536501,3142289711,1168162263,1015611457#notes:TruePico ⭐️ PvP/Controller
+dimwishlist:item=188882152&perks=3151536503,3142289711,1168162263,1015611457#notes:TruePico ⭐️ PvP/Controller
 
 // SYNCOPATION-53
 dimwishlist:item=2856514843&perks=1885400500,1546637391
@@ -74,6 +74,10 @@ dimwishlist:item=2097055732&perks=3230963543,671806388,1546637391
 // SMITE OF MERAIN
 dimwishlist:item=2221264583&perks=839105230,3142289711,1906147653,1183436451
 dimwishlist:item=2221264583&perks=839105230,3142289711,3523296417,3824105627
+
+// BXR-55 BATTLER
+dimwishlist:item=2708806099&perks=839105230,1885400500,3523296417,4293542123#notes:TruePico ⭐️
+dimwishlist:item=2708806099&perks=839105230,1885400500,1906147653,2675184851#notes:TruePico ⭐️
 
 // Exotics
 

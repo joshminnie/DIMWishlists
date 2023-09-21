@@ -1,6 +1,15 @@
 // Sniper Rifles
 // -----------------------------------------------------------------------------
 
+// Exotic
+// -----------------------------------------------------------------------------
+
+dimwishlist:item=3211806999 // Izanagi's Burden
+dimwishlist:item=1891561814 // Whisper of the Worm
+
+// Legendary
+// -----------------------------------------------------------------------------
+
 // Adaptive Frame Sniper Rifles
 dimwishlist:item=10&perks=1294026524,1771339417 // firing line
 dimwishlist:item=10&perks=1294026524,1885400500,1771339417 // firing line, ricochet rounds
@@ -10,10 +19,10 @@ dimwishlist:item=10&perks=1294026524,2869569095,1771339417 // firing line, field
 dimwishlist:item=10&perks=1294026524,247725512,1771339417 // firing line, rapid hit
 
 // SHEPHERD'S WATCH
-dimwishlist:item=3743729616&perks=1482024992,106909392,588594999,957782887#notes:TruePico: #pvp
-dimwishlist:item=3743729616&perks=1482024992,106909392,588594999,47981717#notes:TruePico: #pvp
-dimwishlist:item=3743729616&perks=4090651448,106909392,588594999,957782887#notes:TruePico: #pvp
-dimwishlist:item=3743729616&perks=4090651448,106909392,588594999,47981717#notes:TruePico: #pvp
+dimwishlist:item=3743729616&perks=1482024992,106909392,588594999,957782887#notes:TruePico ⭐️ #pvp
+dimwishlist:item=3743729616&perks=1482024992,106909392,588594999,47981717#notes:TruePico ⭐️ #pvp
+dimwishlist:item=3743729616&perks=4090651448,106909392,588594999,957782887#notes:TruePico ⭐️ #pvp
+dimwishlist:item=3743729616&perks=4090651448,106909392,588594999,47981717#notes:TruePico ⭐️ #pvp
 dimwishlist:item=3743729616&perks=1482024992,106909392,1771339417
 dimwishlist:item=3743729616&perks=1482024992,106909392,4104185692
 dimwishlist:item=3743729616&perks=1482024992,106909392,957782887
@@ -26,21 +35,16 @@ dimwishlist:item=3743729616&perks=4090651448,106909392,1771339417
 dimwishlist:item=3743729616&perks=4090651448,106909392,4104185692
 dimwishlist:item=3743729616&perks=4090651448,106909392,957782887
 dimwishlist:item=3743729616&perks=4090651448,106909392,3523296417
-dimwishlist:item=3743729616&perks=1840239774,106909392,588594999,957782887#notes:TruePico: #pvp #goodroll
+dimwishlist:item=3743729616&perks=1840239774,106909392,588594999,957782887#notes:TruePico ⭐️ #pvp #goodroll
 
 // Agressive Frame Sniper Rifles
 dimwishlist:item=10&perks=3468089894,202670084,3142289711,3400784728,1546637391 // full bore, accurized rounds, triple tap, vorpal weapon
 dimwishlist:item=10&perks=3468089894,3250034553,3142289711,3400784728,1546637391 // hammer-forged rifling, accurized rounds, triple tap, vorpal weapon
 
 // SUCCESSION
-//notes:TruePico: This is a great sniper for working on champions in grand master nightfalls. Recommended MW: Handling or Stability
-dimwishlist:item=2990047042&perks=1523832109,1546637391#notes:TruePico: Champion-buster god roll #pve #champions
-dimwishlist:item=2990047042&perks=4090651448,106909392,1523832109,1546637391#notes:TruePico: Champion-buster god roll #pve #champions
-dimwishlist:item=2990047042&perks=1482024992,106909392,1523832109,1546637391#notes:TruePico: Champion-buster god roll #pve #champions
-dimwishlist:item=2990047042&perks=588594999,957782887#notes:TruePico: Flexible sniper for #pvp
-dimwishlist:item=2990047042&perks=1523832109,2726471870#note:TruePico: Good for killing trash mobs and getting super back #pve
-
-// Exotic
-
-dimwishlist:item=3211806999 // Izanagi's Burden
-dimwishlist:item=1891561814 // Whisper of the Worm
+//notes:TruePico ⭐️: This is a great sniper for working on champions in grand master nightfalls. Recommended MW: Handling or Stability
+dimwishlist:item=2990047042&perks=1523832109,1546637391#notes:TruePico ⭐️ #pve #champions Champion-buster god roll
+dimwishlist:item=2990047042&perks=4090651448,106909392,1523832109,1546637391#notes:TruePico ⭐️ #pve #champions Champion-buster god roll
+dimwishlist:item=2990047042&perks=1482024992,106909392,1523832109,1546637391#notes:TruePico ⭐️ #pve #champions Champion-buster god roll
+dimwishlist:item=2990047042&perks=588594999,957782887#notes:TruePico ⭐️ #pvp Flexible sniper
+dimwishlist:item=2990047042&perks=1523832109,2726471870#note:TruePico ⭐️ #pve Good for killing trash mobs and getting super back

@@ -150,8 +150,8 @@ dimwishlist:item=304659313&perks=3525010810,3301904089,3161816588,4049631843
 dimwishlist:item=304659313&perks=3525010810,409831596,2010801679,4049631843
 dimwishlist:item=304659313&perks=3525010810,409831596,3161816588,4049631843
 
-dimwishlist:item=304659313&perks=981914802,3301904089,2010801679,1546637391#notes:TruePico - This is a great vorpal weapon for season 14 with Breach and Clear and unstoppable grenade launchers, basically god roll for this season.
-dimwishlist:item=304659313&perks=981914802,3301904089,3161816588,1546637391#notes:TruePico - This is a great vorpal weapon for season 14 with Breach and Clear and unstoppable grenade launchers, basically god roll for this season.
+dimwishlist:item=304659313&perks=981914802,3301904089,2010801679,1546637391#notes:TruePico ⭐️ - This is a great vorpal weapon for season 14 with Breach and Clear and unstoppable grenade launchers, basically god roll for this season.
+dimwishlist:item=304659313&perks=981914802,3301904089,3161816588,1546637391#notes:TruePico ⭐️- This is a great vorpal weapon for season 14 with Breach and Clear and unstoppable grenade launchers, basically god roll for this season.
 dimwishlist:item=304659313&perks=981914802,409831596,2010801679,1546637391
 dimwishlist:item=304659313&perks=981914802,409831596,3161816588,1546637391
 dimwishlist:item=304659313&perks=981914802,3301904089,2010801679,4049631843
@@ -337,11 +337,12 @@ dimwishlist:item=1046651176&perks=3250034553,106909392,706527188,3425386926
 dimwishlist:item=1046651176&perks=3250034553,106909392,706527188,3038247973
 dimwishlist:item=1046651176&perks=3250034553,106909392,706527188,47981717
 
-// Targeted Redaction
-dimwishlist:item=3890055324&perks=839105230,3142289711,1168162263,3038247973#notes:TruePico ⭐️ // Normal Perks (Outlaw, Explosive Payload)
-dimwishlist:item=3890055324&perks=839105230,3142289711,1347741687,64866129#notes:TruePico ⭐️ // Enhanced Perks (Outlaw, Explosive Payload)
-dimwishlist:item=3890055324&perks=839105230,3142289711,1168162263,2048641572#notes:TruePico ⭐️ // Normal Perks (Outlaw, Destabilizing Rounds)
-dimwishlist:item=3890055324&perks=839105230,3142289711,1347741687,1926441324#notes:TruePico ⭐️ // Enhanced Perks (Outlaw, Destabilizing Rounds)
+// TARGETED REDACTION
+// Favored Perks: Outlaw / Explosive Payload or Destabilizing Rounds
+dimwishlist:item=3890055324&perks=839105230,3142289711,1168162263,3038247973#notes:TruePico ⭐️
+dimwishlist:item=3890055324&perks=839105230,3142289711,1347741687,64866129#notes:TruePico ⭐️
+dimwishlist:item=3890055324&perks=839105230,3142289711,1168162263,2048641572#notes:TruePico ⭐️
+dimwishlist:item=3890055324&perks=839105230,3142289711,1347741687,1926441324#notes:TruePico ⭐️
 
 // TRASH LIST
 dimwishlist:item=-2112909415 // Ten Paces
@@ -354,7 +355,7 @@ dimwishlist:item=946443267&perks=202670084,1687452232,247725512,1771339417
 dimwishlist:item=946443267&perks=3250034553,1687452232,247725512,1771339417
 
 // THREADED NEEDLE
-dimwishlist:item=3075224551&perks=1840239774,1687452232,2284787283,2848615171#notes:TruePico - This is the recommended roll, with a stability or range masterwork.
+dimwishlist:item=3075224551&perks=1840239774,1687452232,2284787283,2848615171#notes:TruePico ⭐️ - This is the recommended roll, with a stability or range masterwork.
 dimwishlist:item=3075224551&perks=1840239774,1687452232,2284787283,1546637391
 dimwishlist:item=3075224551&perks=1840239774,1687452232,2284787283,2726471870
 dimwishlist:item=3075224551&perks=1840239774,1687452232,2284787283,3523296417
@@ -392,10 +393,10 @@ dimwislist:item=2408405461&perks=247725512,1015611457 // rapid hit, kill clip
 dimwislist:item=2408405461&perks=1168162263,1015611457 // outlaw, kill clip
 
 // LAST PERDITION
-dimwishlist:item=188882152&perks=3142289711,1168162263,1015611457#notes:TruePico PvP/Controller
-dimwishlist:item=188882152&perks=3151536500,3142289711,1168162263,1015611457#notes:TruePico PvP/Controller
-dimwishlist:item=188882152&perks=3151536501,3142289711,1168162263,1015611457#notes:TruePico PvP/Controller
-dimwishlist:item=188882152&perks=3151536503,3142289711,1168162263,1015611457#notes:TruePico PvP/Controller
+dimwishlist:item=188882152&perks=3142289711,1168162263,1015611457#notes:TruePico ⭐️ PvP/Controller
+dimwishlist:item=188882152&perks=3151536500,3142289711,1168162263,1015611457#notes:TruePico ⭐️ PvP/Controller
+dimwishlist:item=188882152&perks=3151536501,3142289711,1168162263,1015611457#notes:TruePico ⭐️ PvP/Controller
+dimwishlist:item=188882152&perks=3151536503,3142289711,1168162263,1015611457#notes:TruePico ⭐️ PvP/Controller
 
 // SYNCOPATION-53
 dimwishlist:item=2856514843&perks=1885400500,1546637391
@@ -454,6 +455,10 @@ dimwishlist:item=2097055732&perks=3230963543,671806388,1546637391
 // SMITE OF MERAIN
 dimwishlist:item=2221264583&perks=839105230,3142289711,1906147653,1183436451
 dimwishlist:item=2221264583&perks=839105230,3142289711,3523296417,3824105627
+
+// BXR-55 BATTLER
+dimwishlist:item=2708806099&perks=839105230,1885400500,3523296417,4293542123#notes:TruePico ⭐️
+dimwishlist:item=2708806099&perks=839105230,1885400500,1906147653,2675184851#notes:TruePico ⭐️
 
 // Exotics
 
@@ -514,7 +519,7 @@ dimwishlist:item=3393519051&perks=1047830412,3230963543,2869569095,2360754333 //
 // -----------------------------------------------------------------------------
 
 // LONESOME
-//notes:TruePico: Recommended MW: Range or Stability
+//notes:TruePico ⭐️: Recommended MW: Range or Stability
 dimwishlist:item=2199171672&perks=3250034553,1885400500,247725512
 dimwishlist:item=2199171672&perks=3250034553,1885400500,247725512,4082225868
 
@@ -658,6 +663,15 @@ dimwishlist:item=2121785039&perks=4090651448,1561002382,2450788523,3350417888
 // Sniper Rifles
 // -----------------------------------------------------------------------------
 
+// Exotic
+// -----------------------------------------------------------------------------
+
+dimwishlist:item=3211806999 // Izanagi's Burden
+dimwishlist:item=1891561814 // Whisper of the Worm
+
+// Legendary
+// -----------------------------------------------------------------------------
+
 // Adaptive Frame Sniper Rifles
 dimwishlist:item=10&perks=1294026524,1771339417 // firing line
 dimwishlist:item=10&perks=1294026524,1885400500,1771339417 // firing line, ricochet rounds
@@ -667,10 +681,10 @@ dimwishlist:item=10&perks=1294026524,2869569095,1771339417 // firing line, field
 dimwishlist:item=10&perks=1294026524,247725512,1771339417 // firing line, rapid hit
 
 // SHEPHERD'S WATCH
-dimwishlist:item=3743729616&perks=1482024992,106909392,588594999,957782887#notes:TruePico: #pvp
-dimwishlist:item=3743729616&perks=1482024992,106909392,588594999,47981717#notes:TruePico: #pvp
-dimwishlist:item=3743729616&perks=4090651448,106909392,588594999,957782887#notes:TruePico: #pvp
-dimwishlist:item=3743729616&perks=4090651448,106909392,588594999,47981717#notes:TruePico: #pvp
+dimwishlist:item=3743729616&perks=1482024992,106909392,588594999,957782887#notes:TruePico ⭐️ #pvp
+dimwishlist:item=3743729616&perks=1482024992,106909392,588594999,47981717#notes:TruePico ⭐️ #pvp
+dimwishlist:item=3743729616&perks=4090651448,106909392,588594999,957782887#notes:TruePico ⭐️ #pvp
+dimwishlist:item=3743729616&perks=4090651448,106909392,588594999,47981717#notes:TruePico ⭐️ #pvp
 dimwishlist:item=3743729616&perks=1482024992,106909392,1771339417
 dimwishlist:item=3743729616&perks=1482024992,106909392,4104185692
 dimwishlist:item=3743729616&perks=1482024992,106909392,957782887
@@ -683,24 +697,19 @@ dimwishlist:item=3743729616&perks=4090651448,106909392,1771339417
 dimwishlist:item=3743729616&perks=4090651448,106909392,4104185692
 dimwishlist:item=3743729616&perks=4090651448,106909392,957782887
 dimwishlist:item=3743729616&perks=4090651448,106909392,3523296417
-dimwishlist:item=3743729616&perks=1840239774,106909392,588594999,957782887#notes:TruePico: #pvp #goodroll
+dimwishlist:item=3743729616&perks=1840239774,106909392,588594999,957782887#notes:TruePico ⭐️ #pvp #goodroll
 
 // Agressive Frame Sniper Rifles
 dimwishlist:item=10&perks=3468089894,202670084,3142289711,3400784728,1546637391 // full bore, accurized rounds, triple tap, vorpal weapon
 dimwishlist:item=10&perks=3468089894,3250034553,3142289711,3400784728,1546637391 // hammer-forged rifling, accurized rounds, triple tap, vorpal weapon
 
 // SUCCESSION
-//notes:TruePico: This is a great sniper for working on champions in grand master nightfalls. Recommended MW: Handling or Stability
-dimwishlist:item=2990047042&perks=1523832109,1546637391#notes:TruePico: Champion-buster god roll #pve #champions
-dimwishlist:item=2990047042&perks=4090651448,106909392,1523832109,1546637391#notes:TruePico: Champion-buster god roll #pve #champions
-dimwishlist:item=2990047042&perks=1482024992,106909392,1523832109,1546637391#notes:TruePico: Champion-buster god roll #pve #champions
-dimwishlist:item=2990047042&perks=588594999,957782887#notes:TruePico: Flexible sniper for #pvp
-dimwishlist:item=2990047042&perks=1523832109,2726471870#note:TruePico: Good for killing trash mobs and getting super back #pve
-
-// Exotic
-
-dimwishlist:item=3211806999 // Izanagi's Burden
-dimwishlist:item=1891561814 // Whisper of the Worm
+//notes:TruePico ⭐️: This is a great sniper for working on champions in grand master nightfalls. Recommended MW: Handling or Stability
+dimwishlist:item=2990047042&perks=1523832109,1546637391#notes:TruePico ⭐️ #pve #champions Champion-buster god roll
+dimwishlist:item=2990047042&perks=4090651448,106909392,1523832109,1546637391#notes:TruePico ⭐️ #pve #champions Champion-buster god roll
+dimwishlist:item=2990047042&perks=1482024992,106909392,1523832109,1546637391#notes:TruePico ⭐️ #pve #champions Champion-buster god roll
+dimwishlist:item=2990047042&perks=588594999,957782887#notes:TruePico ⭐️ #pvp Flexible sniper
+dimwishlist:item=2990047042&perks=1523832109,2726471870#note:TruePico ⭐️ #pve Good for killing trash mobs and getting super back
 
 // Submachine Guns
 // -----------------------------------------------------------------------------
@@ -709,8 +718,8 @@ dimwishlist:item=1891561814 // Whisper of the Worm
 dimwishlist:item=3354242550
 
 // EXTRAORDINARY RENDITION
-//notes:TruePico: "This feels a lot like Recluse reworked. Frenzy and Overflow make a really good combination on this gun." Recommended MW: Reload or Stability
-dimwishlist:item=1097616550&perks=4090651448,106909392,3643424744,4104185692#notes:TruePico "This is my god roll"
+//notes:TruePico ⭐️ This feels a lot like Recluse reworked. Frenzy and Overflow make a really good combination on this gun. Recommended MW: Reload or Stability
+dimwishlist:item=1097616550&perks=4090651448,106909392,3643424744,4104185692#notes:TruePico ⭐️ This is my god roll
 dimwishlist:item=1097616550&perks=4090651448,3142289711,3643424744,3425386926
 dimwishlist:item=1097616550&perks=4090651448,3142289711,3643424744,4104185692
 dimwishlist:item=1097616550&perks=4090651448,3142289711,1168162263,3425386926
