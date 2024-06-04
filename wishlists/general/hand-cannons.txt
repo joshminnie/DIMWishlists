@@ -2,7 +2,7 @@
 // -----------------------------------------------------------------------------
 
 // MIDNIGHT COUP
-dimwishlist:item=1128225405
+dimwishlist:item=2499720827&perks=4090651448,3142289711,3038247973,3891536761
 
 // BETTER DEVILS
 dimwishlist:item=153979397&perks=1926090091,3142289711,2846385770 // sureshot hcs, accurized rounds, rangefinder
@@ -159,11 +159,15 @@ dimwishlist:item=1046651176&perks=3250034553,106909392,706527188,3038247973
 dimwishlist:item=1046651176&perks=3250034553,106909392,706527188,47981717
 
 // TARGETED REDACTION
-// Favored Perks: Outlaw / Explosive Payload or Destabilizing Rounds
+//notes:[TruePico ⭐️]
+Favored Perks: Outlaw / Explosive Payload or Destabilizing Rounds
 dimwishlist:item=3890055324&perks=839105230,3142289711,1168162263,3038247973#notes:TruePico ⭐️
 dimwishlist:item=3890055324&perks=839105230,3142289711,1347741687,64866129#notes:TruePico ⭐️
 dimwishlist:item=3890055324&perks=839105230,3142289711,1168162263,2048641572#notes:TruePico ⭐️
 dimwishlist:item=3890055324&perks=839105230,3142289711,1347741687,1926441324#notes:TruePico ⭐️
 
 // TRASH LIST
-dimwishlist:item=-2112909415 // Ten Paces
+// -----------------------------------------------------------------------------
+
+// TEN PACES
+dimwishlist:item=-2112909415#notes:TruePico 🗑️ - This gun is trash

@@ -8,8 +8,8 @@
     "minimist": ">=1.2.3"
   },
   "devDependencies": {
-    "del": "^7.0.0",
-    "gulp": ">=4.0.2",
+    "del": ">=7.0.0",
+    "gulp": ">=5.0.0",
     "gulp-concat": ">=2.6.1"
   },
   "scripts": {

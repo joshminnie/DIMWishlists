@@ -1,68 +1,6 @@
 title:Crowded
 description:A community wishlist for DIM provided by the members of the Crowed community. Join our Discord: https://discord.gg/eXjMzcp
 
-// Deep Stone Crypt
-// -----------------------------------------------------------------------------
-
-// Opening the Crypt
-// -----------------------------------------------------------------------------
-// This is really a precursor to the main encounters. You will see mostly void
-// shields, so something that can strip the shields is helpful. There really
-// isn't a requirement here as long as you can clear ads, which include Vandals,
-// Captains and even Brigs.
-
-// Encounter 1: Crypt Security
-// -----------------------------------------------------------------------------
-
-
-// Encounter 2: Atraks-1
-// -----------------------------------------------------------------------------
-
-
-// Space Walk
-// -----------------------------------------------------------------------------
-
-
-// Encounter 3: Taniks Part 1
-
-// Garden of Salvation
-// -----------------------------------------------------------------------------
-
-// Encounter 1: Evade the Consecrated Mind
-// -----------------------------------------------------------------------------
-// This encounter is very flexible in your choice of weapons. There are a lot of
-// void shields, so best to take something that can rip through those shields as
-// quickly as possible. Also, for the current season, anything with Anti-Barrier
-// rounds will help with the hobgoblins.
-
-
-
-// Encounter 2: Summon the Consecrated Mind
-// -----------------------------------------------------------------------------
-// The key here is quickly killing your ads, so something for quick.
-
-
-
-// Encounter 3: Defeat the Consecrated Mind
-// -----------------------------------------------------------------------------
-
-// Izanagi's Burden (with completed catalyst)
-dimwishlist:item=3211806999&perks=1070100196,3661387068,3142289711,1168162263,3465198467
-
-
-
-// Encounter 4: Defeat the Sanctified Mind
-// -----------------------------------------------------------------------------
-
-// Izanagi's Burden (with completed catalyst)
-dimwishlist:item=3211806999&perks=1070100196,3661387068,3142289711,1168162263,3465198467
-
-// Last Wish
-// -----------------------------------------------------------------------------
-
-// Vault of Glass
-// -----------------------------------------------------------------------------
-
 // Auto Rifles
 // -----------------------------------------------------------------------------
 
@@ -216,7 +154,7 @@ dimwishlist:item=304659313&perks=3525010810,409831596,2010801679,4049631843
 dimwishlist:item=304659313&perks=3525010810,409831596,3161816588,4049631843
 
 dimwishlist:item=304659313&perks=981914802,3301904089,2010801679,1546637391#notes:TruePico ⭐️ - This is a great vorpal weapon for season 14 with Breach and Clear and unstoppable grenade launchers, basically god roll for this season.
-dimwishlist:item=304659313&perks=981914802,3301904089,3161816588,1546637391#notes:TruePico ⭐️- This is a great vorpal weapon for season 14 with Breach and Clear and unstoppable grenade launchers, basically god roll for this season.
+dimwishlist:item=304659313&perks=981914802,3301904089,3161816588,1546637391#notes:TruePico ⭐️ - This is a great vorpal weapon for season 14 with Breach and Clear and unstoppable grenade launchers, basically god roll for this season.
 dimwishlist:item=304659313&perks=981914802,409831596,2010801679,1546637391
 dimwishlist:item=304659313&perks=981914802,409831596,3161816588,1546637391
 dimwishlist:item=304659313&perks=981914802,3301904089,2010801679,4049631843
@@ -242,11 +180,14 @@ dimwishlist:item=304659313&perks=1844523823,3032599245,2010801679,4049631843
 dimwishlist:item=153950757&perks=2353477480,3301904089 // spike grenades
 dimwishlist:item=153950757&perks=2353477480,981914802,3301904089 // hard launch, spike grenades
 
+// MARSILION-C
+dimwishlist:item=867154247&perks=1478423395,3301904089,968510818,4293542123#notes:TruePico ⭐️ - God roll
+
 // Hand Cannons
 // -----------------------------------------------------------------------------
 
 // MIDNIGHT COUP
-dimwishlist:item=1128225405
+dimwishlist:item=2499720827&perks=4090651448,3142289711,3038247973,3891536761
 
 // BETTER DEVILS
 dimwishlist:item=153979397&perks=1926090091,3142289711,2846385770 // sureshot hcs, accurized rounds, rangefinder
@@ -403,14 +344,18 @@ dimwishlist:item=1046651176&perks=3250034553,106909392,706527188,3038247973
 dimwishlist:item=1046651176&perks=3250034553,106909392,706527188,47981717
 
 // TARGETED REDACTION
-// Favored Perks: Outlaw / Explosive Payload or Destabilizing Rounds
+//notes:[TruePico ⭐️]
+Favored Perks: Outlaw / Explosive Payload or Destabilizing Rounds
 dimwishlist:item=3890055324&perks=839105230,3142289711,1168162263,3038247973#notes:TruePico ⭐️
 dimwishlist:item=3890055324&perks=839105230,3142289711,1347741687,64866129#notes:TruePico ⭐️
 dimwishlist:item=3890055324&perks=839105230,3142289711,1168162263,2048641572#notes:TruePico ⭐️
 dimwishlist:item=3890055324&perks=839105230,3142289711,1347741687,1926441324#notes:TruePico ⭐️
 
 // TRASH LIST
-dimwishlist:item=-2112909415 // Ten Paces
+// -----------------------------------------------------------------------------
+
+// TEN PACES
+dimwishlist:item=-2112909415#notes:TruePico 🗑️ - This gun is trash
 
 // Linear Fusion Rifles
 // -----------------------------------------------------------------------------
@@ -924,3 +869,65 @@ dimwishlist:item=1796949035&perks=2827049491,52780822,1749209109,2396489472
 
 // THIN PRECIPICE
 dimwishlist:item=4066778670&perks=436053704,52780822,1646437399,598607952
+
+// Deep Stone Crypt
+// -----------------------------------------------------------------------------
+
+// Opening the Crypt
+// -----------------------------------------------------------------------------
+// This is really a precursor to the main encounters. You will see mostly void
+// shields, so something that can strip the shields is helpful. There really
+// isn't a requirement here as long as you can clear ads, which include Vandals,
+// Captains and even Brigs.
+
+// Encounter 1: Crypt Security
+// -----------------------------------------------------------------------------
+
+
+// Encounter 2: Atraks-1
+// -----------------------------------------------------------------------------
+
+
+// Space Walk
+// -----------------------------------------------------------------------------
+
+
+// Encounter 3: Taniks Part 1
+
+// Garden of Salvation
+// -----------------------------------------------------------------------------
+
+// Encounter 1: Evade the Consecrated Mind
+// -----------------------------------------------------------------------------
+// This encounter is very flexible in your choice of weapons. There are a lot of
+// void shields, so best to take something that can rip through those shields as
+// quickly as possible. Also, for the current season, anything with Anti-Barrier
+// rounds will help with the hobgoblins.
+
+
+
+// Encounter 2: Summon the Consecrated Mind
+// -----------------------------------------------------------------------------
+// The key here is quickly killing your ads, so something for quick.
+
+
+
+// Encounter 3: Defeat the Consecrated Mind
+// -----------------------------------------------------------------------------
+
+// Izanagi's Burden (with completed catalyst)
+dimwishlist:item=3211806999&perks=1070100196,3661387068,3142289711,1168162263,3465198467
+
+
+
+// Encounter 4: Defeat the Sanctified Mind
+// -----------------------------------------------------------------------------
+
+// Izanagi's Burden (with completed catalyst)
+dimwishlist:item=3211806999&perks=1070100196,3661387068,3142289711,1168162263,3465198467
+
+// Last Wish
+// -----------------------------------------------------------------------------
+
+// Vault of Glass
+// -----------------------------------------------------------------------------
