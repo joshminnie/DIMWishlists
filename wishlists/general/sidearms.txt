@@ -2,11 +2,12 @@
 // -----------------------------------------------------------------------------
 
 // LONESOME
-//notes:TruePico ⭐️: Recommended MW: Range or Stability
+//notes:TruePico ⭐️ || Recommended MW: Range or Stability
 dimwishlist:item=2199171672&perks=3250034553,1885400500,247725512
 dimwishlist:item=2199171672&perks=3250034553,1885400500,247725512,4082225868
 
 // FIMBULWINTER
+//notes:TruePico ⭐️ || Recommended MW: Range or Stability
 dimwishlist:item=3685829362&perks=839105230,1561002382,1115162408,3966416502,3299164941
 dimwishlist:item=3685829362&perks=839105230,1885400500,1115162408,3966416502,3299164941
 dimwishlist:item=3685829362&perks=839105230,1115162408,3966416502,3299164941
