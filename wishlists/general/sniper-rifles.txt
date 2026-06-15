@@ -43,8 +43,10 @@ dimwishlist:item=10&perks=3468089894,3250034553,3142289711,3400784728,1546637391
 
 // SUCCESSION
 //notes:TruePico ⭐️: This is a great sniper for working on champions in grand master nightfalls. Recommended MW: Handling or Stability
-dimwishlist:item=2990047042&perks=1523832109,1546637391#notes:TruePico ⭐️ #pve #champions Champion-buster god roll
-dimwishlist:item=2990047042&perks=4090651448,106909392,1523832109,1546637391#notes:TruePico ⭐️ #pve #champions Champion-buster god roll
-dimwishlist:item=2990047042&perks=1482024992,106909392,1523832109,1546637391#notes:TruePico ⭐️ #pve #champions Champion-buster god roll
-dimwishlist:item=2990047042&perks=588594999,957782887#notes:TruePico ⭐️ #pvp Flexible sniper
-dimwishlist:item=2990047042&perks=1523832109,2726471870#note:TruePico ⭐️ #pve Good for killing trash mobs and getting super back
+dimwishlist:item=2731922624&perks=588594999,957782887#notes:TruePico ⭐️ #pvp Flexible sniper
+dimwishlist:item=2731922624&perks=1523832109,2726471870#note:TruePico ⭐️ #pve Good for killing trash mobs and getting super back
+dimwishlist:item=2731922624&perks=1523832109,1546637391#notes:TruePico ⭐️ #pve #champions Champion-buster god roll
+dimwishlist:item=2731922624&perks=839105230,3142289711,1523832109,1771339417
+dimwishlist:item=2731922624&perks=839105230,3142289711,1523832109,1546637391#notes:TruePico ⭐️ #pve #champions Champion-buster god roll
+dimwishlist:item=2731922624&perks=839105230,3142289711,1523832109,1771339417
+dimwishlist:item=3612338554&perks=839105230,106909392,1523832109,1546637391#notes:TruePico ⭐️ #pve #champions Champion-buster god roll
