@@ -418,6 +418,9 @@ dimwishlist:item=7&perks=1561002382,1168162263,1015611457 // high caliber rounds
 dimwishlist:item=7&perks=1885400500,1168162263,1015611457 // ricochet rounds, outlaw, kill clip
 dimwishlist:item=7&perks=679225683,1168162263,1015611457 // light mag, outlaw, kill clip
 
+// NIGHTSHADE
+dimwishlist:item=34731066&perks=839105230,1885400500,1168162263,1015611457
+
 // SACRED PROVENANCE
 dimwislist:item=2408405461&perks=247725512,1015611457 // rapid hit, kill clip
 dimwislist:item=2408405461&perks=1168162263,1015611457 // outlaw, kill clip
